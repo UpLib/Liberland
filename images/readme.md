@@ -1,1 +1,1 @@
-Some images
+Some images about Liberland and surroundings
