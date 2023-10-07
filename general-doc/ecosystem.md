@@ -22,7 +22,7 @@ Official social accounts
 * signal groups : devoted eg to the settlement, but you must ask to be invited (to avoid spam)
 * matrix room : dedicated to blockchain validators, the invite link is in the concerned docs (also to avoid spam)
 
-The places with the most discussions are the signal groups.
+The places with the most discussions are the signal groups.  
  <br>
 
 Liberland's blockchain
