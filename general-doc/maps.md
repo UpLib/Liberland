@@ -8,6 +8,7 @@ Croatian ministry for agriculture – hunting areas
 * Source: https://sle.mps.hr/huntinggroundpublic/details/1027
 * Source: https://sle.mps.hr/huntinggroundpublic/details/1077
 * Source: https://sle.mps.hr/huntinggroundpublic/details/1079
+* <br>
 
 Other maps
 ----------
