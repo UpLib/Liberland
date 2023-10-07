@@ -33,11 +33,12 @@ Websites related or supporting Liberland
 ----------------------------------------
 * https://liberlandpress.com/
 * https://liberlandtv.com/
+* https://webdesign.ll.land/ Web Design & Development
 * http://radio.ll.land/ 
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
 * https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting video channel, many good videos  
 * https://liberdir.com/
-* https://github.com/Vincent-Andres/Liberland documentation and notes about the Liberland project
+* https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
 Pages related to Liberland
