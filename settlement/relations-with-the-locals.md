@@ -4,6 +4,8 @@
 
 de simples réunions d'information sur le projet
 
+monter une assoc d'amitié Liberland/Zmajevac
+
 aider les assocs locales
 
 inscription assocs locales, eg chasseurs
