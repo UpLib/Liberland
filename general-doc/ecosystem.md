@@ -21,6 +21,8 @@ Official social accounts
 * https://www.youtube.com/@LiberlandOfficial official youtube channel
 * signal groups : devoted eg to the settlement, but you must ask to be invited (to avoid spam)
 * matrix room : dedicated to blockchain validators, the invite link is in the concerned docs (also to avoid spam)
+
+The places with the most discussions are the signal groups.
  <br>
 
 Liberland's blockchain
