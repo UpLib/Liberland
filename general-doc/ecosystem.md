@@ -28,8 +28,7 @@ The places with the most discussions are the signal groups.
 Liberland's blockchain
 ----------------------
 * https://blockchain.liberland.org/ Liberland webwallet
-* https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F Liberland webwallet (thru Polkadot)
-* https://polkadot.js.org/apps/?rpc=wss://mainnet.liberland.org%2F Liberland webwallet (thru Polkadot)
+* https://polkadot.js.org/apps/?rpc=wss://mainnet.liberland.org/ Liberland webwallet (thru Polkadot)
 <br>
 
 Websites related or supporting Liberland
