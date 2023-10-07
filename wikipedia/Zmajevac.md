@@ -5,7 +5,7 @@
 
 Videos
 ------
-* Vinarija Zmajevac - Vino i vinogradarstvo https://youtu.be/FmxVd4RlH0k 2'
+* https://youtu.be/FmxVd4RlH0k * Vinarija Zmajevac - Vino i vinogradarstvo, 2'
 
 <br>
 
