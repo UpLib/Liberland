@@ -11,6 +11,9 @@ full citizens can also buy one of the huts and move in completely (it was on VIC
 I'm not surprised that people don't know, because the community is more closed and their marketing response is weak  
 (source : comments from https://www.youtube.com/watch?v=mmET68_nA7o)
 
+Ark village is managed by Zelena Glava DOO Sombor.
+This is our company in Serbia that unites all the tourist potentials in Liberland, Serbia and Croatia.
+
 "Construction of unique Liberland resort is planned" (2023)  
 <br>
 
