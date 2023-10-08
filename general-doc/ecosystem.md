@@ -48,6 +48,7 @@ Video chains
 ------------
 * https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting many good videos  
 * https://www.youtube.com/@janjirkal2162 many videos from sept. 21th 2023
+* https://www.youtube.com/@Liberlanddailynews
 * <br>
 
 Facebook groups
