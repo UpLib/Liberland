@@ -39,11 +39,16 @@ Friend Websites
 * https://webdesign.ll.land/ Web Design & Development
 * http://radio.ll.land/ 
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
-* https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting video channel, many good videos  
 * https://liberdir.com/
 * https://aisland.io DAO, based on a barge in international waters
 * https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
+
+Video chains
+------------
+* https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting many good videos  
+* https://www.youtube.com/@janjirkal2162 many videos from sept. 21th 2023
+* <br>
 
 Facebook groups
 ---------------
