@@ -15,6 +15,7 @@ Links
 * https://betonblock.com/en
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
+* https://home.howstuffworks.com/earthbag-home.htm
 
 
 
