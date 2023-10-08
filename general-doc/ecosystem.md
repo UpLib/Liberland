@@ -41,7 +41,7 @@ Friend Websites
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
 * https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting video channel, many good videos  
 * https://liberdir.com/
-* https://aisland.io
+* https://aisland.io DAO, based on a barge in international waters
 * https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
