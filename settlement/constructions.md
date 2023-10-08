@@ -20,6 +20,7 @@ Building with earth bags
 * https://home.howstuffworks.com/earthbag-home.htm building with earthbags
 * https://permadomia.com/bioconstruction?lang=en#earth-bags
 * https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
+* http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
 <br>
 
 Concrete blocks
