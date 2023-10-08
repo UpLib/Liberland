@@ -3,6 +3,9 @@ We can imagine building structures hard to destroy.
 
 Parts of the structure, eg in concrete, could be build on a rear base
 
+There seems also to be a lot of sand on Liberty Island and on the beaches.
+Maybe this sand is usable to make concrete ?
+
 
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
@@ -10,6 +13,8 @@ Parts of the structure, eg in concrete, could be build on a rear base
 
 
 <!-- 
+Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
+
 chapelle, église, refuge, monument 
 maybe we could decide that Liberland has a patron saint
 ... and erect a chapel to him.
