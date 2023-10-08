@@ -47,7 +47,7 @@ Facebook groups
 ---------------
 * https://www.facebook.com/liberland official facebook
 * https://www.facebook.com/groups/liberland/
-* 
+* https://www.facebook.com/groups/search/groups_home/?q=liberland
 <br>
 
 Githubs related
