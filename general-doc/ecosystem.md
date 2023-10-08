@@ -43,6 +43,13 @@ Websites related or supporting Liberland
 * https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
+Facebook groups
+---------------
+* https://www.facebook.com/liberland official facebook
+* https://www.facebook.com/groups/liberland/
+* 
+<br>
+
 Githubs related
 ---------------
 * https://github.com/liberland official github
