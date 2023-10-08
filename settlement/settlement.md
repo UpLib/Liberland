@@ -39,13 +39,12 @@ Videos
 
 
 <!--
-l'accès à GS a été ouvert le 6.8 d'après VJ.
+Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
+
+l'accès à Gornja Siga a été ouvert le 6.8 d'après VJ.
 
 A number of things as to be done before continuing to push the settlement.
-- discuss with HUME
 - have our own private port (Apatin ?)
-- build a port in Gornja Siga
-
 
 Mobile sawmill
 --------------
