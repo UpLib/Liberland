@@ -7,7 +7,9 @@ Then, filled with sand and/or concrete made on site.
 There seems also to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?
 
-
+Links
+-----
+* https://www.opensourceecology.org/back-to-compressed-earth-blocks/
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
 
