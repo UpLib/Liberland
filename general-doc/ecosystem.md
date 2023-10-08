@@ -43,6 +43,12 @@ Websites related or supporting Liberland
 * https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
+Githubs related
+---------------
+* https://github.com/liberland official github
+* https://github.com/libersoft-org
+<br>
+
 Pages related to Liberland
 --------------------------
 * https://en.wikipedia.org/wiki/Liberland
