@@ -1,8 +1,9 @@
 
 We can imagine building structures hard to destroy.
 
-Parts of the structure, eg big hollow concrete blocks, could be build on a rear base, and brought to Liberland.
-Then, filled with sand and/or concrete made on site.
+Parts of the structure, eg big hollow concrete blocks, could be build on a rear base, and brought to Liberland.  
+Then, filled with sand and/or concrete made on site.  
+Of course, we should do our best to realize something nice.
 
 There seems also to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?
