@@ -7,17 +7,26 @@ Of course, we should do our best to realize something nice.
 
 There seems also to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?
+<br>
 
-Links
------
+Compressed earth bricks
+------------------------
 * https://wiki.opensourceecology.org/wiki/CEB_Press Compressed Earth Brick Press.
 * https://www.opensourceecology.org/back-to-compressed-earth-blocks/
+<br>
+
+Building with earth bags
+------------------------
+* https://home.howstuffworks.com/earthbag-home.htm building with earthbags
+* https://permadomia.com/bioconstruction?lang=en#earth-bags
+<br>
+
+Concrete blocks
+---------------
 * https://betonblock.com/en
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
-* https://home.howstuffworks.com/earthbag-home.htm building with earthbags
-
-
+<br>
 
 <!-- 
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
