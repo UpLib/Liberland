@@ -6,7 +6,7 @@ Then, filled with sand and/or concrete made on site.
 Of course, we should do our best to realize something nice.
 
 There seems also to be a lot of sand on Liberty Island and on the beaches.
-Maybe this sand is usable to make concrete ?
+Maybe this sand is usable to make concrete ?  
 <br>
 
 Compressed earth bricks
