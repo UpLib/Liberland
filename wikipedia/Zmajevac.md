@@ -3,10 +3,11 @@
 * https://en.wikipedia.org/wiki/Zmajevac
 <br>
 
-Misc links
+Links
 ----------
 * https://www.facebook.com/Vorosmart/
-* <br>
+
+<br>
 
 
 Videos
@@ -16,3 +17,6 @@ Videos
 
 <br>
 
+Misc
+----
+* see associations
