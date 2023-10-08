@@ -32,8 +32,8 @@ Liberland's blockchain
 * https://polkadot.js.org/apps/?rpc=wss://mainnet.liberland.org/ Liberland webwallet (thru Polkadot)
 <br>
 
-Websites related or supporting Liberland
-----------------------------------------
+Friend Websites
+---------------
 * https://liberlandpress.com/
 * https://liberlandtv.com/
 * https://webdesign.ll.land/ Web Design & Development
@@ -41,6 +41,7 @@ Websites related or supporting Liberland
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
 * https://www.youtube.com/@CryptoparadiseConsulting CryptoparadiseConsulting video channel, many good videos  
 * https://liberdir.com/
+* https://aisland.io
 * https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
