@@ -25,7 +25,7 @@ Of course, we need to document things precisely, how it is, how it will be, etc.
 * reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
 * build a pier for Croatian police
 * build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
-* your propositions ...
+* <i>your propositions</i> ...
 <br>
 
 Liberland well at Jefferson square
