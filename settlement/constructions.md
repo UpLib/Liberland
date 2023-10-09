@@ -13,7 +13,8 @@ Building things that no one wants to destroy
 --------------------------------------------
 If we build houses etc, "Croatian Forest" will automatically destroy them (officially or not)
 because atm they don't want anybody to settle in <i>Gornja Siga</i>.  
-If we build infrastructure useful to everyone, it is probably less likely to be destroyed.
+If we build infrastructure useful to everyone, it is probably less likely to be destroyed.  
+We can also build things which would be shameful to destroy, and only prove that the destroyer takes in reality no care of the area.  
 Liberland could even inform officially "Croatian Forest" about such construction,
 and simply ask them if they intend to destroy it or not.  
 Anyway there are probably some infrastucture constructions which need to be build, and will be useful to everyone.  
@@ -25,6 +26,7 @@ Of course, we need to document things precisely, how it is, how it will be, etc.
 * reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
 * build a pier for Croatian police
 * build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
+* identify pertinent trees to plant, and make some plantations here and there
 * <i>your propositions</i> ...
 <br>
 
