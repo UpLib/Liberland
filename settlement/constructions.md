@@ -45,7 +45,7 @@ We can probably find other infrastructure construction to build (or rebuild) her
 Of course, we need to document things precisely, how it is, how it will be, etc. With pictures.  
 
 * repair a damaged path here or there
-* reconnect some dead river arm(s) to the Danube, eg near Jefferson square (would provide safe harbor(s))
+* reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
 * build a pier for Croatian police
 * build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
 
