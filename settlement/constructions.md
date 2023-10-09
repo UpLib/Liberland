@@ -32,6 +32,16 @@ Concrete blocks
 * https://psalmstones.com/lego-concrete-blocks/
 <br>
 
+Building things that no one wants to destroy
+--------------------------------------------
+If we build houses etc, "Croatian Forest" will automatically destroy them (officially or not)
+because atm they don't want anybody to settle in <i>Gornja Siga</i>.  
+If we build infrastructure useful to everyone, it is probably less likely to be destroyed.
+Liberland could even inform officially "Croatian Forest" about such construction,
+and simply ask them if they intend to destroy it or not.
+
+<br>
+
 <!-- 
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
 
