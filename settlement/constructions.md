@@ -40,7 +40,7 @@ If we build infrastructure useful to everyone, it is probably less likely to be 
 Liberland could even inform officially "Croatian Forest" about such construction,
 and simply ask them if they intend to destroy it or not.  
 Anyway there are probably some infrastucture constructions which need to be build, and will be useful to everyone.  
-The rebuiding of the well (https://www.youtube.com/watch?v=7pzh-UBjruE 1' video) is an excellent example.
+The rebuiding of the well (https://www.youtube.com/watch?v=7pzh-UBjruE 1' video) is an excellent example.  
 We can probably find other infrastructure construction to build (or rebuild) here and there on the <i>Gornja Siga</i> 700 hectares.  
 Of course, we need to document things precisely, how it is, how it will be, etc. With pictures.  
 
