@@ -46,11 +46,12 @@ We can probably find other infrastructure construction to build (or rebuild) her
 <br>
 
 <!-- 
+a bridge, with a movable part, to connect Liberland mainland and Liberty Island
+
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
 
 chapelle, église, refuge, monument 
-maybe we could decide that Liberland has a patron saint
-... and erect a chapel to him.
+maybe we could decide that Liberland has a patron saint ... and erect a chapel to him.
 
 -->
 
