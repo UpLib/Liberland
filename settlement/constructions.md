@@ -38,7 +38,10 @@ If we build houses etc, "Croatian Forest" will automatically destroy them (offic
 because atm they don't want anybody to settle in <i>Gornja Siga</i>.  
 If we build infrastructure useful to everyone, it is probably less likely to be destroyed.
 Liberland could even inform officially "Croatian Forest" about such construction,
-and simply ask them if they intend to destroy it or not.
+and simply ask them if they intend to destroy it or not.  
+Anyway there are probably some infrastucture constructions which need to be build, and will be useful to everyone.  
+The rebuiding of the well is an excellent example.
+We can probably find other infrastructure construction to build (or rebuild) here and there on the <i>Gornja Siga</i> 700 hectares.
 
 <br>
 
