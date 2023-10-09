@@ -41,13 +41,15 @@ Liberland could even inform officially "Croatian Forest" about such construction
 and simply ask them if they intend to destroy it or not.  
 Anyway there are probably some infrastucture constructions which need to be build, and will be useful to everyone.  
 The rebuiding of the well is an excellent example.
-We can probably find other infrastructure construction to build (or rebuild) here and there on the <i>Gornja Siga</i> 700 hectares.
+We can probably find other infrastructure construction to build (or rebuild) here and there on the <i>Gornja Siga</i> 700 hectares.  
+Of course, we need to document things precisely, how it is, how it will be, etc. With pictures.  
+
+* repair a damaged path here or there
+* build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
 
 <br>
 
 <!-- 
-a bridge, with a movable part, to connect Liberland mainland and Liberty Island
-
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
 
 chapelle, église, refuge, monument 
