@@ -50,6 +50,14 @@ Of course, we need to document things precisely, how it is, how it will be, etc.
 
 <br>
 
+Liberland well at Jefferson square
+----------------------------------
+In my country (France) it is customary to put a strong metal grid on a public well, for safety reasons.  
+I propose that we do that for the well at Jefferson square.
+And that we have the grid done by somebody in the area.
+The grid being heavy and with a clear and indestructible mention that it was purchased by Liberland + the date.
+
+
 <!-- 
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
 
