@@ -16,7 +16,8 @@ Comparison between satellites images in 2007 and circa 2020, show also clearly t
 was a harvested area.
 
 This all shows that even if <i>Gornja Siga</i> is a <i>terra nullius</i> (which is certainly the case),
-<i>Gornja Siga</i> is by no way an unused or unharvested area.
+<i>Gornja Siga</i> is by no way an unused or unharvested area.  
+<i>Gornja Siga</i> is a <i>terra nullius</i>, but <i>Gornja Siga</i> is by no way a <i>terra unused</i>,
 <i>Gornja Siga</i> is definitely used and harvested by its neighbours, ie Croatian people and Croatian companies, eg "Croatian Forest".  
 (Logging is generally planned 10 to 20 years in advance).  
 As long as nobody did live in the place "Croatian Forests" did use the place as they wanted, without constraints. For decades.  
@@ -29,6 +30,9 @@ Imo, if Liberland and Liberlanders want to settle in this area, then we have to 
 
 Planted wood
 ------------
+It would be fair to either buy the existing already planted wood,
+or to let the "Croatian Forest" finish their work there.
+
 Liberland could :
 * either purchase the existing wood/trees
 * either sign a contract with "Croatian Forest", allowing them to harvest what they have planted
@@ -40,10 +44,27 @@ Hunting products
 Same as for the wood.  
 <br>
 
-
 <!--
 You cannot propose 0$ for something to somebody who thinks that the something has value.
 Not only has value, but brings him revenue every year.
+
+In October 2023,
+a very necessary (but probably not so easy) task seems to open negociations with "Croatian Forest" 
+concerning Liberland settlement and the existing presence of  "Croatian Forest" in <i>Gornja Siga</i>.  
+
+This could be advantageous for both sides.
+This would allow Croatia to officially own the concerned pieces of land.
+
+Before opening negociations, we must prepare them.
+
+Une façon toute bête de prendre contact avec "Croatian Forests" serait de leur proposer d'acheter du terrain à proximité de LL.
+Du terrain utile pour nous, eg pour embarcadère, pour commencer à créer une zone tampon.
+
+il faut :
+* recenser les LL croates
+* on devrait identifier les interlocuteurs
+* monter un groupe de travail pour aller au contact avec les Croates. ça existe sans doute déjà.
+* chiffrer le CA annuel de l'exploitation du bois à Gornja Siga
 -->
 
 
