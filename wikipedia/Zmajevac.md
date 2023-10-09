@@ -15,7 +15,7 @@ Videos
 ------
 * https://www.youtube.com/watch?v=AKPquaqXlls Vožnja kroz Zmajevac u Baranji (02.08.2022), by car thru Zmajevac, 3'
 * https://www.youtube.com/watch?v=mYSz7NyzQHs Zmajevac kandidat za Best Tourism Villages, july 2022, 4'
-* https://youtu.be/FmxVd4RlH0k * Vinarija Zmajevac - Vino i vinogradarstvo, 2'
+* https://youtu.be/FmxVd4RlH0k Vinarija Zmajevac - Vino i vinogradarstvo, 2'
 
 <br>
 
