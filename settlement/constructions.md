@@ -9,29 +9,6 @@ There seems also to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?  
 <br>
 
-Compressed earth bricks
-------------------------
-* https://wiki.opensourceecology.org/wiki/CEB_Press Compressed Earth Brick Press.
-* https://www.opensourceecology.org/back-to-compressed-earth-blocks/
-<br>
-
-Building with earth bags
-------------------------
-* https://home.howstuffworks.com/earthbag-home.htm building with earthbags
-* https://permadomia.com/bioconstruction?lang=en#earth-bags
-* https://duckduckgo.com/?q=earthbag+homes&t=ftsa&iar=images
-* https://www.pinterest.fr/pin/570549846554852377/
-* http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
-* https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
-<br>
-
-Concrete blocks
----------------
-* https://betonblock.com/en
-* https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
-* https://psalmstones.com/lego-concrete-blocks/
-<br>
-
 Building things that no one wants to destroy
 --------------------------------------------
 If we build houses etc, "Croatian Forest" will automatically destroy them (officially or not)
@@ -48,7 +25,6 @@ Of course, we need to document things precisely, how it is, how it will be, etc.
 * reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
 * build a pier for Croatian police
 * build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
-
 <br>
 
 Liberland well at Jefferson square
@@ -57,6 +33,30 @@ In my country (France) it is customary to put a strong metal grid on a public we
 I propose that we do that for the well at Jefferson square.
 And that we have the grid (a nice one) done by somebody in the area.
 The grid being heavy and with a clear and indestructible mention that it was purchased by Liberland + the date.
+<br>
+
+Building with earth bags
+------------------------
+* https://home.howstuffworks.com/earthbag-home.htm building with earthbags
+* https://permadomia.com/bioconstruction?lang=en#earth-bags
+* https://duckduckgo.com/?q=earthbag+homes&t=ftsa&iar=images
+* https://www.pinterest.fr/pin/570549846554852377/
+* http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
+* https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
+<br>
+
+Compressed earth bricks
+------------------------
+* https://wiki.opensourceecology.org/wiki/CEB_Press Compressed Earth Brick Press.
+* https://www.opensourceecology.org/back-to-compressed-earth-blocks/
+<br>
+
+Concrete blocks
+---------------
+* https://betonblock.com/en
+* https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
+* https://psalmstones.com/lego-concrete-blocks/
+<br>
 
 
 <!-- 
