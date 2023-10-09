@@ -10,13 +10,17 @@ concerning Liberland settlement and the existing presence of  "Croatian Forest" 
 
 What Liberland can propose
 --------------------------
-Since Liberland is the land owner, Liberland can propose officially land to the people or public entities we consider worth.
-Liberland can for instance propose some piece(s) of land to the "Croatian Forest".
+Since Liberland is the land owner, Liberland can propose officially to rent land to the people or public entities we consider worth.
+
+For example, it would be fair to either buy the existing already planted wood,
+or to let the "Croatian Forest" finish their work there.
 
 
 
 
 <!--
+Liberland could for instance propose some piece(s) of land to the "Croatian Forest".
+
 This could be advantageous for both sides.
 This would allow Croatia to officially own the concerned pieces of land.
 
