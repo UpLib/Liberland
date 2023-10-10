@@ -1,17 +1,21 @@
 
+Zmajevac is the nearest village from Liberland.  
+Zmajevac has ~3 kms common border with Liberland (Nort-East Liberland border).
 
 Zmajevac : 
 * https://en.wikipedia.org/wiki/Zmajevac
-* de simples réunions d'information sur le projet
+* simple information meetings on the project
 * monter une assoc d'amitié Liberland/Zmajevac
-* aider les assocs locales
+* see if possible to participate/help to some local associations ?
 * there are 2 churches (+ maybe a chapel). If there is repairing being done, maybe Liberland can help. With money or with hands.
 * inscription assocs locales, eg chasseurs
-* jumelage
+* twinning between Zmajevac and Liberland ?
 
 
-baranja-greenways
-* https://www.baranja-greenways.eu/
+Misc
+----
+* https://www.openstreetmap.org/#map=14/45.7691/18.8444
+* https://www.baranja-greenways.eu/ baranja-greenways
 
 <br>
 <!--
