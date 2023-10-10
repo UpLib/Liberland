@@ -11,6 +11,10 @@ Zmajevac :
 * inscription assocs locales, eg chasseurs
 * twinning between Zmajevac and Liberland ?
 
+Events
+------
+* https://www.baranjainfo.hr/otvorene-prijave-za-vinski-maraton-u-zmajevcu/ wine marathon in Zmajevac, last one was in september 2023, it was the 18th.
+
 
 Misc
 ----
