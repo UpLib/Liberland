@@ -15,7 +15,9 @@ intégrer la carte OSM depuis la version hr
 Events
 ------
 * https://www.baranjainfo.hr/otvorene-prijave-za-vinski-maraton-u-zmajevcu/ wine marathon in Zmajevac, last one was in september 2023, it was the 18th.
-
+* https://www.youtube.com/shorts/5fkoT5RXWbo Zmajevac wine marathon 2022 (short)
+* https://www.youtube.com/watch?v=z7qaPKvvGKw 3'
+<br>
 
 Misc
 ----
@@ -28,7 +30,6 @@ Videos
 * https://www.youtube.com/watch?v=AKPquaqXlls Vožnja kroz Zmajevac u Baranji (02.08.2022), by car thru Zmajevac, 3'
 * https://www.youtube.com/watch?v=mYSz7NyzQHs Zmajevac kandidat za Best Tourism Villages, july 2022, 4'
 * https://youtu.be/FmxVd4RlH0k Vinarija Zmajevac - Vino i vinogradarstvo, 2'
-* https://www.youtube.com/shorts/5fkoT5RXWbo Zmajevac wine marathon 2022 (short)
 
 <br>
 
