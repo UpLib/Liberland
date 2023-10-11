@@ -2,7 +2,8 @@
 Zmajevac is the nearest village from Liberland.  
 Zmajevac has ~3 kms common border with Liberland (Nort-East Liberland border).
 
-* https://de.wikipedia.org/wiki/Zmajevac_(Kne%C5%BEevi_Vinogradi) most complete WP page
+* https://de.wikipedia.org/wiki/Zmajevac_(Kne%C5%BEevi_Vinogradi) rather complete WP page
+* https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6smart rather complete WP page
 * https://en.wikipedia.org/wiki/Zmajevac
 * https://www.openstreetmap.org/#map=14/45.7691/18.8444
 
