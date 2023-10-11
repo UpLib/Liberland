@@ -1,9 +1,14 @@
 
+What is doable with our nearest neighbours ?
 
+Danube
+------
 * https://www.river-cleanup.org/en/danube
+* https://www.icpdr.org/
 * <br>
 
-Zmajevac : 
+Zmajevac
+--------
 * https://en.wikipedia.org/wiki/Zmajevac
 * simple information meetings on the project
 * monter une assoc d'amitié Liberland/Zmajevac
