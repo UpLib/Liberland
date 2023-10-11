@@ -6,3 +6,7 @@ The wikipedia pages on which Liberlanders could add material and informations (i
   
 <br>
 
+See also
+--------
+* https://en.wikipedia.org/wiki/Special:ContentTranslation
+* https://fr.wikipedia.org/wiki/Sp%C3%A9cial:ContentTranslation
