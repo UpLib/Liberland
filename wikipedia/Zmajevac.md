@@ -13,6 +13,7 @@ Zmajevac has ~3 kms common border with Liberland (Nort-East Liberland border).
 <!--
 depuis hr : intégrer la carte OSM depuis la version hr, recopier la section sur la démographie
 
+https://en.wikipedia.org/wiki/Kopa%C4%8Dki_Rit parc naturel à qqs kilomètres
 https://www.interreg-danube.eu/news-and-events/programme-news-and-events/5034 about Otti Berger
 -->
 
