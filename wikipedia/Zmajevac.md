@@ -15,8 +15,9 @@ intégrer la carte OSM depuis la version hr
 Events
 ------
 * https://www.baranjainfo.hr/otvorene-prijave-za-vinski-maraton-u-zmajevcu/ wine marathon in Zmajevac, last one was in september 2023, it was the 18th.
+* https://www.youtube.com/watch?v=3w6Vhw2sEM0 Zmajevac wine marathon 2023 2'
+* https://www.youtube.com/watch?v=z7qaPKvvGKw Zmajevac wine marathon 2022 3'
 * https://www.youtube.com/shorts/5fkoT5RXWbo Zmajevac wine marathon 2022 (short)
-* https://www.youtube.com/watch?v=z7qaPKvvGKw 3'
 <br>
 
 Misc
