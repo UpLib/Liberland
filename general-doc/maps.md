@@ -1,12 +1,13 @@
 
 * https://e-liberland.org/ Liberland maps + official Liberland cadastre
-* https://lara.ll.land/maps many links to many maps (copied here)
+* https://lara.ll.land/maps many links to many maps (links copy-pasted here)
+* https://limescroatia.eu/maps/
 <br>
 
 Notes
 -----
 On the Croatian side, there is a breakwater, with a road at its top.
-Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the breakwater.
+Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the breakwater.  
 <br>
 
 Croatian ministry for agriculture – hunting areas
