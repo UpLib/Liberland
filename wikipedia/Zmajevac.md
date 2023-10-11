@@ -7,6 +7,9 @@ Zmajevac has ~3 kms common border with Liberland (Nort-East Liberland border).
 * https://en.wikipedia.org/wiki/Zmajevac
 * https://www.openstreetmap.org/#map=14/45.7691/18.8444
 
+<!--
+intégrer les cartes depuis la version hr
+-->
 
 Events
 ------
