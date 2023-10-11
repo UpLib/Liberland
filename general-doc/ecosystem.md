@@ -76,4 +76,12 @@ Pages related to Liberland
 <br>
 
 
-<!-- annuary -->
+<!-- 
+annuary 
+Il y a de facto tout un écosystème volontairement créé autour du projet, avec achats de terrains dans la zone franche d'Apatin, etc.
+
+https://liberland.org/en/news/official-statement-on-relations-with-the-republic-of-croatia-ministry-of-foreign-affairs-free-republic-of-liberland-389.htm
+In Serbia, Liberland citizens are investing in tourism, maritime industry and high-tech fields. (16/01/2019)
+
+Le projet https://www.liberstad.com/ fonctionne un peu de la même manière, avec également un resort adossé au projet.
+-->
