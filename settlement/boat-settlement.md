@@ -8,14 +8,21 @@ reducing or minimizing the risks of destruction.
 
 Contrary to the near 100% destruction on the mainland settlement, in october 2023, we observe that the "Croatian Forests" :
 * don't try to destroy the settlement on Siga Island
-* don't try to destroy the liberlanders moored boats  
-This may change of course, but gives us clues about possible things to do.
-<br>
+* don't try to destroy the liberlanders moored boats
+
+This may change of course, but gives us clues about possible things to do.<br>
 
 Another observation is that the 1st Liberland settlement attempt was ~200 meters from the north border,
-which is (in 2023) the only path to access Liberland.  
-When big vehicles come, there is few time left to do anything.  
+Liberland north border being (in 2023) the only path to access Liberland.  
+When big vehicles come, such a place lets few time left to do anything.  
+
+Next settlement places could be further away from Liberland's current only entrance.  
+This would :
+* allow monitoring
+* let more time to organize in case of attack
+
 <br>
+
 
 Danube Liberland branches
 -------------------------
