@@ -1,8 +1,7 @@
 
 Context in 2023
 ---------------
-The context is the context of the 1st settlement, ie complete destruction commited by "Croatian Forests" 
-(https://liberland.org/en/news/490-brutal-croatia-invades-liberland).
+The context is the context of the 1st settlement, ie complete destruction commited by "Croatian Forests" in september 2023 (https://liberland.org/en/news/490-brutal-croatia-invades-liberland).
 
 As long as Liberland has no proper agreement with "Croatian Forest", we have to think on other possible ways to settle or pre-settle,
 reducing or minimizing the risks of destruction.
@@ -13,12 +12,19 @@ Contrary to the near 100% destruction on the mainland settlement, in october 202
 This may change of course, but gives us clues about possible things to do.
 <br>
 
+Another observation is that the 1st Liberland settlement attempt was ~200 meters from the north border,
+which is (in 2023) the only path to access Liberland.  
+When big vehicles come, there is few time left to do anything.  
+<br>
 
-House-Boats settlement(s)
+Danube Liberland branches
 -------------------------
+There are several temporary Danube branches going inside Liberland.  
+Part of the year, those branches are disconnected from the Danube (the Danube water level being too low), 
+and the other part, when the Danube is high enough, the branches are reconnected to the Danube.  
+Those branches could be natural harbor for houseboats, provided they would be reconnected to the Danube.  
+Reconnecting the Danube branches to the main flow doesn't seem to be too difficult.
 
-
-
-
+<br>
 
 
