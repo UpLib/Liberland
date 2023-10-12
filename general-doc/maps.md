@@ -21,10 +21,14 @@ Misc maps
 * [Croatian ministry of Physical Planning, Construction and State Assets](https://mpgi.gov.hr/prostorno-uredjenje-3335/prostorni-planovi-8193/prostorni-planovi-drzavne-razine/prostorni-planovi-parkova-prirode/prostorni-plan-pp-kopacki-rit/3327)
 * [Geoportal – Croatian cadastral maps](https://geoportal.dgu.hr/#/?lat=45.80779641827083&lng=18.85969749587222&zoom=3&layerconfig=17013&mode=2d)
 * [Hrvatske Šume d.o.o.](https://webgis.hrsume.hr/arcgis/apps/webappviewer/index.html?id=8bb3e1d6b80d49ad9e0193f8b62380e2)
-* [River map of Danube next to Liberland, pdf](https://danubeportal.com/application/cache/uploads/charts/paper/HR/136/1571899967.pdf)
-* https://www.icpdr.org/library/maps-data concerns the Danube river
 * https://www.researchgate.net/figure/Geological-map-CGS-2009-of-Baranja-region-with-encircled-position-of-investigated_fig2_284358962 geological map of Baranja region
 * https://limescroatia.eu/maps/ Historical
+<br>
+
+Danube maps
+-----------
+* [River map of Danube next to Liberland, pdf](https://danubeportal.com/application/cache/uploads/charts/paper/HR/136/1571899967.pdf)
+* https://www.icpdr.org/library/maps-data concerns the Danube river
 <br>
 
 Croatian ministry for agriculture – hunting areas
