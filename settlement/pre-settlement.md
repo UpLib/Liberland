@@ -1,4 +1,6 @@
 
+September 2023, 21th
+--------------------
 September 2023, 21th, the Croatian police, together with people from Croatian Forests, destroyed all the settlement
 in Gornja Siga (https://liberland.org/en/news/490-brutal-croatia-invades-liberland).
 
@@ -32,7 +34,4 @@ So, let's use our skills, brains (and money !) to explore how this can be done.
 Better use our time and energy to discuss with Croatia and Croatian entities concerned by Gornja Siga,
 than use this time in other unproductive tracks.  
 Let's be positive.
-
-
-
 
