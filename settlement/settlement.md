@@ -1,8 +1,8 @@
 
 Liberland settlement
 --------------------
-Liberland is connected to Croatia by at least 3 tracks (on the north side).
-That's the only access by land.  
+* Liberland is connected to Croatia by at least 3 tracks (on the north side). That's the only access by land.  
+* Liberland is also technically accessible by boat by the Danube river (which is <i>international water</i>)
 More info : [Liberland geography and maps](/general-doc/maps.md)  
 <br>
 
