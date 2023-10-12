@@ -23,6 +23,7 @@ Misc maps
 * [Hrvatske Šume d.o.o.](https://webgis.hrsume.hr/arcgis/apps/webappviewer/index.html?id=8bb3e1d6b80d49ad9e0193f8b62380e2)
 * [River map of Danube next to Liberland, pdf](https://danubeportal.com/application/cache/uploads/charts/paper/HR/136/1571899967.pdf)
 * https://www.icpdr.org/library/maps-data concerns the Danube river
+* https://www.researchgate.net/figure/Geological-map-CGS-2009-of-Baranja-region-with-encircled-position-of-investigated_fig2_284358962 geological map of Baranja region
 * https://limescroatia.eu/maps/ Historical
 <br>
 
