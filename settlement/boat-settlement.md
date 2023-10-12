@@ -12,9 +12,9 @@ Contrary to the near 100% destruction on the mainland settlement, in october 202
 
 This may change of course, but gives us clues about possible things to do.<br>
 
-Another observation is that the 1st Liberland settlement attempt was ~200 meters from the north border,
-Liberland north border being (in 2023) the only path to access Liberland.  
-When big vehicles come, such a place lets few time left to do anything.  
+Another observation is that the 1st Liberland settlement attempt was ~200 meters from the Liberland north border,
+this border being (in 2023) the only path/entrance to access Liberland.  
+When big vehicles come, such a place lets only few time left to do anything.  
 
 Next settlement places could be further away from Liberland's current only entrance.  
 This would :
