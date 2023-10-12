@@ -1,6 +1,7 @@
 
 Liberland geography
 -------------------
+* [Liberland maps](/general-doc/maps.md)
 * https://e-liberland.org/liberland-map/ Liberland maps
 
 The territory is 7 square kms (3 times Monaco). It's a nice area for a small population.  
