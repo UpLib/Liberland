@@ -13,7 +13,8 @@ Zmajevac
 
 <br>
 
-Liberland will certainly try to purchase some land being in the Zmajevac municipal ban/cadastre.
+Liberland and/or Liberladers will certainly try to purchase some land being in the Zmajevac municipal ban/cadastre.  
+Having friendly relations would obviously be a plus.
 
 <br>
 
