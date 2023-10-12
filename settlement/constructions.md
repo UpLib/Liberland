@@ -32,6 +32,12 @@ Concrete blocks
 * https://psalmstones.com/lego-concrete-blocks/
 <br>
 
+Building with trunks
+--------------------
+It's not indestructible, but it is more solid than a simple plank cabin, and also nicer.
+There is all the wood we want there ... but I (strongly suggest) we buy the wood from the "Croatian Forest".
+<br>
+
 Mobile sawmill
 --------------
 A lot of wood will be used for the settlement.
