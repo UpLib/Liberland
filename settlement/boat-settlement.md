@@ -1,7 +1,7 @@
 
 Context in 2023
 ---------------
-The context is the context of the 1st settlement complete destruction commited by "Croatian Forests" 
+The context is the context of the 1st settlement, ie complete destruction commited by "Croatian Forests" 
 (https://liberland.org/en/news/490-brutal-croatia-invades-liberland).
 
 As long as Liberland has no proper agreement with "Croatian Forest", we have to think on other possible ways to settle or pre-settle,
@@ -14,7 +14,10 @@ This may change of course, but gives us clues about possible things to do.
 <br>
 
 
-One possible 
+House-Boats settlement(s)
+-------------------------
+
+
 
 
 
