@@ -1,5 +1,9 @@
 Liberland geography and maps
 ----------------------------
+Liberland is situated between Croatia and Serbia, roughly 30 kms from Hungary.  
+Liberland's nearest town in Croatia is Osijek (https://en.wikipedia.org/wiki/Osijek).  
+Liberland's nearest town in Serbia is Sombor (https://en.wikipedia.org/wiki/Sombor).  
+Liberland is in the same time zone as all West-Europe.
 
 Liberland's territory is 7 square kms (3 times Monaco).  
 Liberland is connected to Croatia by at least 3 tracks (on the north side).  
