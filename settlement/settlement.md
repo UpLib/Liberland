@@ -38,7 +38,7 @@ Videos
 See also
 --------
 * [boat-settlement.md](/settlement/boat-settlement.md) possible solutions to settle by boat
-* [pre-settlement.md](/settlement/pre-settlement.md) the imo requirements to realize prior to settling
+* [pre-settlement.md](/settlement/pre-settlement.md) the imo unavoidable requirements to realize prior to settling
 * [Liberland geography and maps](/general-doc/maps.md)  
 <br>
 
