@@ -35,6 +35,14 @@ Videos
 * https://www.youtube.com/watch?v=ihgT_8F1BX8 Video of Liberland's 1st settlement just few days before the Croatian police intervention (21.9.2023), 14'
 <br>
 
+See also
+--------
+* [boat-settlement.md](/settlement/boat-settlement.md) possible solutions to settle by boat
+* [pre-settlement.md](/settlement/pre-settlement.md) the imo requirements to realize prior to settling
+* [Liberland geography and maps](/general-doc/maps.md)  
+<br>
+
+
 <!--
 l'accès à Gornja Siga a été ouvert le 6.8 d'après VJ.
 -->
