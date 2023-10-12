@@ -1,9 +1,9 @@
 
-
+<!--
 Liberland must offer compensations for taking <i>Gornja Siga</i>
-----------------------------------------------------------------
+-->
 
-Detailed maps of the <i>Gornja Siga</i> area : https://e-liberland.org/liberland-map/  
+Maps of the <i>Gornja Siga</i> area :  [Liberland geography and maps](/general-doc/maps.md)  
 <br>
 
 <i>Gornja Siga</i> is an exploited area
@@ -35,15 +35,11 @@ It would be fair to either buy the existing already planted wood,
 or to let the "Croatian Forest" finish their work there.
 
 Liberland could :
-* either purchase the existing wood/trees
+* either purchase the existing wood/trees (good way to make contact)
 * either sign a contract with "Croatian Forest", allowing them to harvest what they have planted
 * in addition, we could eg propose a compensation, diminishing every year, to compensate for the yearly revenue loss
 <br>
 
-Hunting products
-----------------
-Same as for the wood.  
-<br>
 
 <!--
 You cannot propose 0$ for something to somebody who thinks that the something has value.
