@@ -24,6 +24,7 @@ Of course, we need to document things precisely, how it is, how it will be, etc.
 
 * repair a damaged path here or there
 * reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
+* prepair strong places where to moore and/or to ground properly some houseboats
 * build a pier for Croatian police
 * build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
 * identify pertinent trees to plant, and make some plantations here and there
@@ -59,6 +60,16 @@ Concrete blocks
 * https://betonblock.com/en
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
+<br>
+
+Mobile sawmill
+--------------
+A lot of wood will be used for the settlement.
+Maybe that complementarily to buying wood, Liberlanders could use the existing local wood ?
+
+* https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
+* https://woodmizer.com/store/Shop/Portable-Sawmills/LT15-Portable-Sawmill ~10.000$
+* https://www.youtube.com/watch?v=-6vfq0etuFA wood-mizer
 <br>
 
 
