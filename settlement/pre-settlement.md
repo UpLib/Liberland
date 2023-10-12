@@ -67,5 +67,10 @@ And that we have the grid (a nice one) done by somebody in the area.
 The grid being heavy and with a clear and indestructible mention that it was purchased by Liberland + the date.  
 <br>
 
+See also
+--------
+* [consructions.md](constructions.md)
+
+<br>
 
 
