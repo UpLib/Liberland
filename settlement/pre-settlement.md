@@ -9,7 +9,7 @@ Working 3 weeks to have all the work destroyed in some hours is not a sustainabl
 
 As much it is absolutely understandable that many Liberlanders are impatients to settle,
 as much it is important to insure a settlement will be done in good conditions,
-ie without being afraid of material destructions (or worse).
+ie without being afraid of material destructions (or worse).  
 <br>
 
 Liberland : Requirements <b>before</b> settling
