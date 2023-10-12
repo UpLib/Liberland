@@ -1,12 +1,9 @@
 
-Liberland geography
--------------------
-* [Liberland maps](/general-doc/maps.md)
-
-The territory is 7 square kms (3 times Monaco). It's a nice area for a small population.  
-Liberland is connected to Croatia by at least 3 tracks (on the north side).  
-Liberland is physically separated from Serbia by the Danube (https://en.wikipedia.org/wiki/Danube).  
-There are few bridges on the Danube. Fortunately, there is one bridge at Batina, which is not far from Liberland.  
+Liberland settlement
+--------------------
+Liberland is connected to Croatia by at least 3 tracks (on the north side).
+That's the only access by land.  
+More info : [Liberland geography and maps](/general-doc/maps.md)
 <br>
 
 Practical informations
