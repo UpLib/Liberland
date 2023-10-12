@@ -9,7 +9,7 @@ Liberland's territory is 7 square kms (3 times Monaco).
 Liberland is connected to Croatia by at least 3 tracks (on the north side).  
 Liberland is physically separated from Serbia by the Danube (https://en.wikipedia.org/wiki/Danube).  
 There are few bridges on the Danube. Fortunately, there is one bridge at Batina, which is not far from Liberland.  
-On the Croatian side, there is a breakwater, with a road at its top. Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the breakwater.  
+On the Croatian side, there is a breakwater, with a road at its top. Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the Croatian breakwater.  
 
 The north limit of the Kopacki rit natural park touches the south border of Liberland(see eg OSM maps).
 
