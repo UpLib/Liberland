@@ -2,8 +2,9 @@
 Liberland settlement
 --------------------
 * Liberland is connected to Croatia by at least 3 tracks (on the north side). That's the only access by land.  
-* Liberland is also technically accessible by boat by the Danube river (which is <i>international water</i>)
-More info : [Liberland geography and maps](/general-doc/maps.md)  
+* Liberland is also technically accessible by boat by the Danube river (which is <i>international water</i>) -> see [boat-settlement.md](/settlement/boat-settlement.md)
+
+More info on the geography : [Liberland geography and maps](/general-doc/maps.md)  
 <br>
 
 Practical informations
@@ -34,19 +35,6 @@ Videos
 * https://www.youtube.com/watch?v=ihgT_8F1BX8 Video of Liberland's 1st settlement just few days before the Croatian police intervention (21.9.2023), 14'
 <br>
 
-
 <!--
 l'accès à Gornja Siga a été ouvert le 6.8 d'après VJ.
-
-A number of things as to be done before continuing to push the settlement.
-- have our own private port (Apatin ?)
-
-Mobile sawmill
---------------
-A lot of wood is used for the settlement.
-Maybe that complementarily to buying wood, Liberlanders could use the existing local wood ?
-
-* https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
-* https://woodmizer.com/store/Shop/Portable-Sawmills/LT15-Portable-Sawmill ~10.000$
-* https://www.youtube.com/watch?v=-6vfq0etuFA wood-mizer
 -->
