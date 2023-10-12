@@ -19,7 +19,7 @@ When big vehicles come, such a place lets few time left to do anything.
 Next settlement places could be further away from Liberland's current only entrance.  
 This would :
 * allow monitoring
-* let more time to organize in case of unfriendly visit
+* let more time to pacifically organize in case of unfriendly visit
 
 <br>
 
