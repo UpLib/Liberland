@@ -12,3 +12,8 @@ Zmajevac
 * twinning between Zmajevac and Liberland ?
 
 <br>
+
+Liberland will certainly try to purchase some land being in the Zmajevac municipal ban/cadastre.
+
+<br>
+
