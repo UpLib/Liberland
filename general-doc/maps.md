@@ -5,8 +5,8 @@
 
 Notes
 -----
-On the Croatian side, there is a breakwater, with a road at its top.
-Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the breakwater.  
+* On the Croatian side, there is a breakwater, with a road at its top. Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the breakwater.
+* The north limit of the Kopacki rit natural park touches the south border of Liberland.
 <br>
 
 Other maps
