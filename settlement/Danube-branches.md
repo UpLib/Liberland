@@ -17,7 +17,7 @@ For example, if we plan to realize a bridge, the sand can be used to raise the 2
 <br>
 
 ![alt text](/images/liberland-lara-500x600.jpg)  
-Liberland sky view, with Jefferson square + Liberty Island.
-The Danube branch is clearly visible.
+Liberland sky view, with Jefferson square + Liberty Island.  
+The Danube branch, disconnected at the time of the picture, is clearly visible.
 
 <br>
