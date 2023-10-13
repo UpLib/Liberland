@@ -8,7 +8,7 @@ Those branches could be natural channel and natural harbor for boats and housebo
 and that the branches banks get a little developed.
 
 Reconnecting the Danube branches to the main flow doesn't seem to be too difficult.  
-At a first glance, this seems a pertinent enginneering job to do.  
+At a first glance, this seems a pertinent engineering job to do.  
 
 The excavated sand should not be thrown in the Danube.
 If Liberland develops as expected, we'll definitely need material here and there.
