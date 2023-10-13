@@ -21,17 +21,12 @@ This would :
 * allow monitoring
 * let more time to pacifically organize in case of unfriendly visit
 
-<br>
-
-
-Danube Liberland branches
--------------------------
-There are at least 2 temporary Danube branches going inside Liberland.  
+There are at least 2 temporary Danube branches going deep inside Liberland.  
 Part of the year, those branches are disconnected from the Danube (the Danube water level being too low), 
 and the other part, when the Danube is high enough, the branches are reconnected to the Danube.  
-Those branches could be natural channel and natural harbor for boats and houseboats, provided they would be reconnected to the Danube.  
-Reconnecting the Danube branches to the main flow doesn't seem to be too difficult.  
-At a first glance, this seems a pertinent enginneering job to do.  
+Those branches could be natural channel and natural harbor for boats and houseboats, provided they would be permanently reconnected to the Danube.  
+See [Danube-branches.md](Danube-branches.md)
+
 <br>
 
 
