@@ -9,6 +9,17 @@ There seems also to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?  
 <br>
 
+Building constructions surrounded by big trees
+----------------------------------------------
+Big trees can be cut off of course, but they provide however some protection.  
+<br>
+
+Building with trunks
+--------------------
+It's not indestructible, but it is more solid than a simple plank cabin, and also nicer.
+There is all the wood we want there ... but I (strongly suggest) we buy the wood from the "Croatian Forest". 
+<br>
+
 Building with earth bags
 ------------------------
 * https://home.howstuffworks.com/earthbag-home.htm building with earthbags
@@ -30,12 +41,6 @@ Concrete blocks
 * https://betonblock.com/en
 * https://blockwalls.co.uk/5-things-about-concrete-lego-blocks/
 * https://psalmstones.com/lego-concrete-blocks/
-<br>
-
-Building with trunks
---------------------
-It's not indestructible, but it is more solid than a simple plank cabin, and also nicer.
-There is all the wood we want there ... but I (strongly suggest) we buy the wood from the "Croatian Forest".
 <br>
 
 Mobile sawmill
