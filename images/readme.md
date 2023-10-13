@@ -4,7 +4,7 @@ Some images about Liberland and surroundings
 ark-village-gm-02.jpg : Ark village satellite view, source = google map  
 
 ![alt text](/images/thumbs/liberland-lara-500x600-thumb.jpg)
-liberland-lara-500x600-.jpg : Liberland sky view, with Jefferson square + Liberty Island, [source](https://lara.ll.land)
+liberland-lara-500x600.jpg : Liberland sky view, with Jefferson square + Liberty Island, [source](https://lara.ll.land)
 
 ![alt text](/images/thumbs/liberland-satview-2007-thumb.jpg)
 liberland-satview-2007.jpg : Liberland satellite view, 2007
