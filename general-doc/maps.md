@@ -20,8 +20,9 @@ The north limit of the Kopacki rit natural park touches the south border of Libe
 
 Misc maps
 ---------
-* https://www.openstreetmap.org/#map=13/45.7233/18.8716
+* https://www.openstreetmap.org/#map=13/45.7233/18.8716 Open Street Map OSM
 * https://en.mapy.cz/turisticka?planovani-trasy&dim=64d63404e3f969892b07effc&x=18.8862102&y=45.7634895 good online map
+* https://www.google.com/maps/place//@45.689023,18.944709,24881m google map
 * [Croatian ministry of Physical Planning, Construction and State Assets](https://mpgi.gov.hr/prostorno-uredjenje-3335/prostorni-planovi-8193/prostorni-planovi-drzavne-razine/prostorni-planovi-parkova-prirode/prostorni-plan-pp-kopacki-rit/3327)
 * [Geoportal – Croatian cadastral maps](https://geoportal.dgu.hr/#/?lat=45.80779641827083&lng=18.85969749587222&zoom=3&layerconfig=17013&mode=2d)
 * [Hrvatske Šume d.o.o.](https://webgis.hrsume.hr/arcgis/apps/webappviewer/index.html?id=8bb3e1d6b80d49ad9e0193f8b62380e2)
