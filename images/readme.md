@@ -1,5 +1,9 @@
 Some images about Liberland and surroundings
 
+[tttt](/images/thumbs/ark-village-gm-02-thumb.jpg)
+
+
+
 * ark-village-gm-02.jpg               : Ark village satellite view, source = google map
 * liberland-satview-2007.jpg          : Liberland satellite view, 2007
 * liberland-skyview-01.jpg            : Liberland skyview, [source](https://liberland.org/assets/documents/liberland-brochure.pdf)
