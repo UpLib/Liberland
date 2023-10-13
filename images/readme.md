@@ -2,6 +2,8 @@ Some images about Liberland and surroundings
 
 [tttt](/images/thumbs/ark-village-gm-02-thumb.jpg)
 
+![tttt](/images/thumbs/ark-village-gm-02-thumb.jpg)
+
 
 
 * ark-village-gm-02.jpg               : Ark village satellite view, source = google map
