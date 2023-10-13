@@ -13,10 +13,10 @@ At a first glance, this seems a pertinent enginneering job to do.
 The excavated sand should not be thrown in the Danube.
 If Liberland develops as expected, we'll definitely need material here and there.
 So, either we store the sand somewhere, either we can use it to raise the soil level where it is needed.  
-For example, if we plan to realize a bridge, the sand can be used to raise the 2 ends of the bridge.
+For example, if we plan to realize a bridge, the sand can be used to raise the 2 ends of the bridge.  
+<br>
 
-
-![alt text](/images/liberland-lara-500x600.jpg)
+![alt text](/images/liberland-lara-500x600.jpg)  
 Liberland sky view, with Jefferson square + Liberty Island.
 The Danube branch is clearly visible.
 
