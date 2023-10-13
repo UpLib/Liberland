@@ -17,7 +17,7 @@ Big trees can be cut off of course, but they provide however some protection.
 Building with trunks
 --------------------
 It's not indestructible, but it is more solid than a simple plank cabin, and also nicer.
-There is all the wood we want there ... but I (strongly suggest) we buy the wood from the "Croatian Forest". 
+There is all the wood we want there ... but I (strongly suggest) we buy the wood from the "Croatian Forest".  
 <br>
 
 Building with earth bags
