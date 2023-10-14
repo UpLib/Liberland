@@ -22,8 +22,10 @@ So, before any new serious settlements attempts, Liberland and Liberlanders have
 * The top priority issue imo is :  
 <b>Liberland must reach an agreement with the people living in the area and using Gornja Siga</b>
 
-And concluding agreements with our neighbours also implies on our part to achieve a certain number of things.  
+And concluding agreements with our neighbours also implies on our part to achieve several pre-requisites.
 And it will probably take time. So, the sooner we begin, the better.
+
+* One of the prerequisites is imo to purchase the already planted trees we want to use -> [wood-material.md](wood-material.md)
 
 There are other important (and more technical issues), but if Liberland is unable to reach an agreement 
 with Croatia and Croatian local peoples and entities (eg "Croatian Forests"), 
@@ -36,17 +38,6 @@ than use this time in other unproductive tracks.
 Let's be positive.
 <br>
 
-About the wood
---------------
-Liberland has a lot of trees.
-Liberland settlement will use a lot of wood, and probably big trunks.  
-A big part of Liberland trees have been planted by Croatia and Croatian people, since decades.
-
-We can't just show up at <i>Gornja Siga</i> and cut down the trees as if they had fallen from the sky.
-These are not correct ways to proceed.
-
-Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".  
-<br>
 
 Pre-settling : Building things that no one wants to destroy
 ------------------------------------------------------------
