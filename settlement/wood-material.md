@@ -1,5 +1,4 @@
 
-
 About the wood
 --------------
 * Liberland has a lot of trees. A big part of Liberland trees have been planted by Croatia and Croatian people, since decades.
@@ -11,12 +10,14 @@ These are not correct ways to proceed.
 Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".  
 Of course there is a great probability that they refuse.  
 But this is not a reason not to try it at least.  
+Even if they refuse, this will show Liberland's goodwill.  
 <br>
 
 Planted wood
 ------------
 On the long term, it would also be fair to either buy the existing already planted wood,
-or to let the "Croatian Forest" finish their work there.
+or to let the "Croatian Forest" continue their ongoing work there.  
+(Logging is generally planned 10 to 20 years in advance).
 
 Liberland could :
 * either purchase the existing wood/trees (good way to make contact)
