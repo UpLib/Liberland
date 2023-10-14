@@ -24,18 +24,21 @@ So, either we store the sand somewhere, either we can use it to raise the soil l
 For example, if we plan to realize a bridge, the sand can be used to raise the 2 ends of the bridge.  
 <br>
 
+![alt text](/images/liberland-lara-500x600.jpg)  
+Liberland sky view, with Jefferson square + Liberty Island.  
+The Danube branch, disconnected at the time of the picture, is clearly visible.  
+<br>
+
 Danube branch west of Liberland
 -------------------------------
 The considerations are roughly the same as for the east branch, but :
-* the west branch is ~7 kms long
+* the west branch is ~7 kms long, and is most of Liberland's west border with Croatia
 * There is a difference in that this branch is also connected to other branches in Croatia.
 Thus, a permanent reconnection would impact Liberland, but also Croatia.
 The impact would probably be quite small, since all those branches are anyway, regularly connected to the Danube when its level is high enough.
 <br>
 
-
-![alt text](/images/liberland-lara-500x600.jpg)  
-Liberland sky view, with Jefferson square + Liberty Island.  
-The Danube branch, disconnected at the time of the picture, is clearly visible.
-
+![alt text](/images/liberland-satview-2007.jpg)  
+Liberland satellite view.
+The west branch is clearly visible.  
 <br>
