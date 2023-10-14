@@ -14,6 +14,7 @@ and that the banks get a little developed.
 * Reconnection(s) could also be done in more than one place. But even with only one reconnection, this would made the place enclosed between the arm and the Danube, a safer place.  
 With 2 reconnections, the concerned enclosed place would be a supplementary island, ie inaccessible by (unfriendly engines).
 * Reconnection to the main flow would have impact strictly limited to Liberland.
+* There are many technical solutions for a small pedestrian bridge to facilitate comings and goings. See below.
 
 Reconnecting this branch to the main flow doesn't seem to be too difficult.  
 At a first glance, this seems a pertinent engineering job to do.  
