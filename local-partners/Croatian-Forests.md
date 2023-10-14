@@ -1,9 +1,8 @@
 
-* https://www.hrsume.hr/ official website
+* https://www.hrsume.hr/ official <i>Croatian Forest</i>website
 * https://www.hrsume.hr/o-nama/usp-osijek/ Administration in Osijek
 
 The Forestry Administration Osijek branch consists of 8 foresters and one work unit (from their website).
-
 <br>
 
 <i>Gornja Siga</i>
@@ -23,7 +22,7 @@ This all shows that even if <i>Gornja Siga</i> is a <i>terra nullius</i> (which 
 <i>Gornja Siga</i> is a <i>terra nullius</i>, but <i>Gornja Siga</i> is by no way a <i>terra unused</i>,
 <i>Gornja Siga</i> is definitely used and harvested by its neighbours, ie Croatian people and Croatian companies, eg "Croatian Forest".  
 (Logging is generally planned 10 to 20 years in advance).  
-As long as nobody did live in the place "Croatian Forests" did use the place as they wanted, without constraints. For decades.  
+As long as nobody did live in the place, "Croatian Forests" did use the place as they wanted, without constraints. For decades.  
 For this single reason (which is not the only one), even if <i>Gornja Siga</i> is not in Croatia,
 this doesn't mean that <i>Gornja Siga</i> has no value for Croatia and for the neighbours.  
 If Liberland and Liberlander speak with Croatia and Croatian peoples, we must take this point in strong consideration.
@@ -31,4 +30,8 @@ If Liberland and Liberlander speak with Croatia and Croatian peoples, we must ta
 Imo, if Liberland and Liberlanders want to settle in this area, then we have probably to negociate some fair compensations with the previous users.  
 <br>
 
+See also
+--------
+* [wood-material](/settlement/wood-material.md)
 
+<br>
