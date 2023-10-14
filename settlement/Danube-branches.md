@@ -46,7 +46,7 @@ The west branch is clearly visible.
 
 Bridges
 -------
-* a small boat + a solid rope or cable would be enough for many cases. There are trees everywhere to fix it.
+* a small boat + a solid rope or cable would be cheap simple first solution for many cases. There are trees everywhere to fix it.
 * https://www.baysports.com.au/products/air-pontoon-4x4x0-2m inflatable air pontoon
 * https://www.rivanna.org/2016/05/18/floating-bridge-installed/ floating bridge
 * https://www.archdaily.com/538895/dutch-floating-bridge-ro-and-ad-architecten Dutch floating bridge (plans available)
