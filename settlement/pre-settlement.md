@@ -45,7 +45,7 @@ A big part of Liberland trees have been planted by Croatia and Croatian people, 
 We can't just show up at <i>Gornja Siga</i> and cut down the trees as if they had fallen from the sky.
 These are not correct ways to proceed.
 
-Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".
+Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".  
 <br>
 
 Pre-settling : Building things that no one wants to destroy
