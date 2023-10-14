@@ -10,12 +10,12 @@ These are not correct ways to proceed.
 
 Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".  
 Of course there is a great probability that they refuse.  
-But this is not a reason not to try it at least.
+But this is not a reason not to try it at least.  
 <br>
 
 Planted wood
 ------------
-It would be fair to either buy the existing already planted wood,
+On the long term, it would also be fair to either buy the existing already planted wood,
 or to let the "Croatian Forest" finish their work there.
 
 Liberland could :
