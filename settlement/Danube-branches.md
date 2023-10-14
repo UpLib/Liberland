@@ -4,13 +4,18 @@ Danube Liberland branches
 There are at least 2 temporary Danube branches going inside Liberland (see the maps).  
 Part of the year, those branches are disconnected from the Danube (the Danube water level being too low), 
 and the other part, when the Danube is high enough, the branches are reconnected to the Danube.
+<br>
 
-* Those branches could be natural channel and natural harbor for boats and houseboats, provided they would be permanently reconnected to the Danube,
-and that the branches banks get a little developed.
+Danube branch east of Liberland
+-------------------------------
+* This branch is ~1 km long (could be made ~ 2kms long however)
+* This branch could be a natural channel and a natural harbor for boats and houseboats, provided it would be permanently reconnected to the Danube,
+and that the banks get a little developed.
 * Reconnection(s) could also be done in more than one place. But even with only one reconnection, this would made the place enclosed between the arm and the Danube, a safer place.  
 With 2 reconnections, the concerned enclosed place would be a supplementary island, ie inaccessible by (unfriendly engines).
+* Reconnection to the main flow would have impact strictly limited to Liberland.
 
-Reconnecting the Danube branches to the main flow doesn't seem to be too difficult.  
+Reconnecting this branch to the main flow doesn't seem to be too difficult.  
 At a first glance, this seems a pertinent engineering job to do.  
 
 The excavated sand should not be thrown in the Danube.
@@ -18,6 +23,16 @@ If Liberland develops as expected, we'll definitely need material here and there
 So, either we store the sand somewhere, either we can use it to raise the soil level where it is needed.  
 For example, if we plan to realize a bridge, the sand can be used to raise the 2 ends of the bridge.  
 <br>
+
+Danube branch west of Liberland
+-------------------------------
+The considerations are roughly the same as for the east branch, but :
+* the west branch is ~7 kms long
+* There is a difference in that this branch is also connected to other branches in Croatia.
+Thus, a permanent reconnection would impact Liberland, but also Croatia.
+The impact would probably be quite small, since all those branches are anyway, regularly connected to the Danube when its level is high enough.
+<br>
+
 
 ![alt text](/images/liberland-lara-500x600.jpg)  
 Liberland sky view, with Jefferson square + Liberty Island.  
