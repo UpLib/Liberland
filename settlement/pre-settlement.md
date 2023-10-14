@@ -51,12 +51,12 @@ The rebuiding of the well (https://www.youtube.com/watch?v=7pzh-UBjruE 2023.9.6,
 We can probably find other infrastructure construction to build (or rebuild) here and there on the <i>Gornja Siga</i> 700 hectares.  
 Of course, we need to document things precisely, how it is, how it will be, etc. With pictures.  
 
-* repair a damaged path here or there
+* repair a damaged path here or there (... there's more than 30 kms tracks on Liberland)
 * finish or repair some existing constructions which are abandonned or left in place
 * reconnect some dead river arm(s) to the Danube, eg near Jefferson square (1st step to provide safe harbor(s)). Venice quarter !
 * prepare strong places where to moore and/or to ground properly some houseboats
 * build a pier on mainland, build a pier on Siga Island
-* build a bridge, with a movable part, to connect Liberland mainland and Liberty Island
+* build a floating bridge, with a movable part, to connect Liberland mainland and Liberty Island
 * settle with non-private constructions in a first phase, eg if we realize some plantation, have a construction devoted to the plantation monitoring
 * identify pertinent trees to plant, and make some plantations here and there
 * <i>your propositions</i> ...
