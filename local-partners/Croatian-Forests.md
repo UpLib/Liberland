@@ -1,15 +1,14 @@
 
-Maps of the <i>Gornja Siga</i> area :  [Liberland geography and maps](/general-doc/maps.md)  
+* https://www.hrsume.hr/ official website
 <br>
-
 
 <i>Gornja Siga</i>
 ------------------
-<b><i>Gornja Siga</i> is an exploited area</b>
+<b><i>Gornja Siga</i> is an exploited area</b>.
 
-If you look at pictures from https://e-liberland.org/liberland-map/, you see :
+If you look at [<i>Gornja Siga</i> maps](/general-doc/maps.md)  , you see :
 * there are more than 20 kilometers of forest tracks
-* a significant part (20% ?) of the Gornja Siga area seems to be a well-maintained forest (trees planted in ordered manner etc)
+* a significant part (50% ?) of the Gornja Siga area seems to be a well-maintained forest (trees planted in ordered manner etc)
 * other less visible points
 
 Comparison between satellites images in 2007 and circa 2020, show also clearly that <i>Gornja Siga</i>, and the neighbourhood ,
