@@ -1,12 +1,12 @@
 
 Our local partners or possible partners
 ---------------------------------------
-
 * [Zmajevac](Zmajevac.md)
 * [Croatian-Forests](Croatian-Forests.md)
 * [Danube](Danube.md)
 * [hunters](hunters.md)
 * [Kopacki Rit natural park](Kopacki-Rit.md)
+* [Verdis](Verdis.md)
 
 
 <!--
