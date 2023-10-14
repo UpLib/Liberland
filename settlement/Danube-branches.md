@@ -47,7 +47,7 @@ The west branch is clearly visible.
 Bridges
 -------
 * https://www.rivanna.org/2016/05/18/floating-bridge-installed/ floating bridge
-* https://www.archdaily.com/538895/dutch-floating-bridge-ro-and-ad-architecten Dutch floating bridge
+* https://www.archdaily.com/538895/dutch-floating-bridge-ro-and-ad-architecten Dutch floating bridge (plans available)
 * https://en.wikipedia.org/wiki/Simple_suspension_bridge Simple suspension bridge
 * https://www.2tout2rien.fr/wp-content/uploads/2014/09/Friedrich-Bayer-Bridge-splendide-pont-pour-pieton-et-velo-1.jpg ... in the future
 
