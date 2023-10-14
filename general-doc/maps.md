@@ -11,7 +11,7 @@ Liberland is physically separated from Serbia by the Danube (https://en.wikipedi
 There are few bridges on the Danube. Fortunately, there is one bridge at Batina, which is not far from Liberland.  
 On the Croatian side, there is a breakwater, with a road at its top. Liberland, as the Danube, is on the east side of the breakwater, which means that Liberland is not protected by the Croatian breakwater.  
 
-The north limit of the Kopacki rit natural park touches the south border of Liberland (see eg OSM maps).
+The north limit of the Kopacki rit natural park is close to the south border of Liberland (see eg OSM maps).
 
 * https://www.youtube.com/watch?v=pR9lSS6jmJI good 5' explanation on why <i>Gornja Siga</i> became a terra nullius
 * https://e-liberland.org/ Liberland maps + official Liberland cadastre
