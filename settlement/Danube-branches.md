@@ -32,7 +32,7 @@ The Danube branch, disconnected at the time of the picture, is clearly visible.
 Danube branch west of Liberland
 -------------------------------
 The considerations are roughly the same as for the east branch, but :
-* the west branch is ~7 kms long, and is most of Liberland's west border with Croatia
+* the west branch is ~7 kms long, is larger than east branch, and is most of Liberland's west border with Croatia
 * There is a difference in that this branch is also connected to other branches in Croatia.
 Thus, a permanent reconnection would impact Liberland, but also Croatia.
 The impact would probably be quite small, since all those branches are anyway, regularly connected to the Danube when its level is high enough.
