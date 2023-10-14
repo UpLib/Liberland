@@ -1,5 +1,5 @@
 
-Kopacki Rit
+Kopački Rit
 -----------
 
 The north limit of the Kopacki rit natural park is close to the south border of Liberland (see eg OSM maps).
