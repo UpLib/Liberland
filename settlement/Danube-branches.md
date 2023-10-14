@@ -44,6 +44,12 @@ Liberland satellite view.
 The west branch is clearly visible.  
 <br>
 
+Mosquitoes
+----------
+Stagnant water is known to encourage mosquitoes.
+If we could have running water here and ther instead of stagnant water, this would help us against mosquitoes.  
+<br>
+
 Bridges
 -------
 * a small boat + a solid rope or cable would be cheap simple first solution for many cases. There are trees everywhere to fix it.
