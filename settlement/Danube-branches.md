@@ -42,3 +42,11 @@ The impact would probably be quite small, since all those branches are anyway, r
 Liberland satellite view.
 The west branch is clearly visible.  
 <br>
+
+Bridges
+-------
+* https://www.2tout2rien.fr/wp-content/uploads/2014/09/Friedrich-Bayer-Bridge-splendide-pont-pour-pieton-et-velo-1.jpg
+
+
+<br>
+
