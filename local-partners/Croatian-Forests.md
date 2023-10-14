@@ -1,5 +1,7 @@
 
 * https://www.hrsume.hr/ official website
+* https://www.hrsume.hr/o-nama/usp-osijek/ Administration in Osijek
+
 <br>
 
 <i>Gornja Siga</i>
