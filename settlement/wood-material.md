@@ -7,7 +7,7 @@ About the wood
 We can't just show up at <i>Gornja Siga</i> and cut down the trees as if they had fallen from the sky.
 These are not correct ways to proceed.
 
-Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests".  
+Since Liberland will need a lot of wood, I strongly urge us to first purchase the wood from the "Croatian Forests" (CF).  
 Of course there is a great probability that they refuse.  
 But this is not a reason not to try it at least.  
 Even if they refuse, this will show Liberland's goodwill.  
@@ -22,6 +22,7 @@ or to let the "Croatian Forest" continue their ongoing work there.
 Liberland could :
 * either purchase the existing wood/trees (good way to make contact)
 * either sign a contract with "Croatian Forest", allowing them to harvest what they have planted
+* ask CF to cut down the trees we want to be cutted, for us, and pay CF for that (more direct selling is impossible for them)
 * in addition, we could eg propose a compensation, diminishing every year, to compensate for the yearly revenue loss
 <br>
 
