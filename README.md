@@ -1,6 +1,6 @@
 Miscelleanous notes about Liberland and the Liberland project.
 
-<b>Warning : all documents here are drafts and must be treated as such </b>  
+<b>Warning : this is a workspace, all documents here are drafts and must be treated as such </b>  
 
 <b>Contributions are welcome</b>
 <br>
