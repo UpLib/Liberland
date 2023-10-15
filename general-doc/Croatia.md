@@ -1,7 +1,6 @@
 
-Région de Croatie (Nord-Est)
-----------------------------
-
+Croatia (North-East)
+--------------------
 * https://en.wikipedia.org/wiki/Baranya_(region)
 * https://en.wikipedia.org/wiki/Croatia
 * https://en.wikipedia.org/wiki/Osijek 130.000 inhabitants, ~30 kms East from Liberland
