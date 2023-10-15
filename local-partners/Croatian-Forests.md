@@ -27,7 +27,7 @@ For this single reason (which is not the only one), even if <i>Gornja Siga</i> i
 this doesn't mean that <i>Gornja Siga</i> has no value for Croatia and for the neighbours.  
 If Liberland and Liberlander speak with Croatia and Croatian peoples, we must take this point in strong consideration.
 
-Imo, if Liberland and Liberlanders want to settle in this area, then we have probably to negociate some fair compensations with the previous users.  
+Imo, if Liberland and Liberlanders want to settle in this area, then it's mandatory to reach agreements with the previous users.  
 <br>
 
 See also
@@ -35,5 +35,8 @@ See also
 * [wood-material](/settlement/wood-material.md)
 
 <br>
-<!-- louer des terrains aussi -->
+<!-- 
+compensation
+louer des terrains aussi 
+-->
 
