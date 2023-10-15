@@ -46,10 +46,14 @@ without having no more to worry about occupying illegally those pieces of land.
 If Croatia is worried about Liberland and the area, they could use the land they own in Liberland to monitor the area.
 
 Liberland could propose such a deal to Croatia and Serbia.
+<br>
+
+Use Liberland as a natural place to host discussions between Croatia and Serbia
+-------------------------------------------------------------------------------
 Liberland could then be a kind of "neutral" place where Croatia and Serbia,
 having neighbour embassies, could then discuss more easily.
 And Liberland, being the host, could of course be a facilitator.
-Liberland could be a kind of Switzerland for Croatia, Serbia and Hungary.  
+Liberland could be a kind of Switzerland for Croatia, Serbia (and Hungary).  
 <br>
 
 Misc
