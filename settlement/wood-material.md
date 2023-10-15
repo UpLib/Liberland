@@ -22,7 +22,7 @@ or to let the "Croatian Forest" continue their ongoing work there.
 Liberland could :
 * either purchase the existing wood/trees (good way to make contact)
 * either sign a contract with "Croatian Forest", allowing them to harvest what they have planted
-* ask CF to cut down the trees we want to be cutted, for us, and pay CF for that (more direct selling is impossible for them)
+* ask CF to cut down the trees we want to be cutted, for us, and pay CF for the wood and the work (more direct selling is impossible for them)
 * in addition, we could eg propose a compensation, diminishing every year, to compensate for the yearly revenue loss
 <br>
 
