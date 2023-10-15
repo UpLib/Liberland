@@ -1,4 +1,7 @@
 
+Misc links to the blockchain stuff
+----------------------------------
+
 * https://liberland.org/en/why-blockchain
 * https://liberland.org/blockchain
 * https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain
