@@ -35,3 +35,5 @@ See also
 * [wood-material](/settlement/wood-material.md)
 
 <br>
+<!-- louer des terrains aussi -->
+
