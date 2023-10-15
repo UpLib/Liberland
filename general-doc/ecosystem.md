@@ -41,7 +41,6 @@ Friend Websites
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
 * https://liberdir.com/
 * https://aisland.io DAO, based on a barge in international waters
-* https://github.com/uplib/Liberland documentation and notes about the Liberland project
 <br>
 
 Video chains
@@ -63,6 +62,7 @@ Facebook groups
 Githubs related
 ---------------
 * https://github.com/liberland official github
+* https://github.com/uplib/Liberland documentation and notes about the Liberland project
 * https://github.com/libersoft-org
 <br>
 
