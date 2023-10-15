@@ -27,6 +27,8 @@ Liberland could :
 
 
 <!--
+proposer d'échanger eg des droits d'exploitation dans GS contre du terrain à l'extérieur.
+
 You cannot propose 0$ for something to somebody who thinks that the something has value.
 Not only has value, but brings him revenue every year.
 
