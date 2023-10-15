@@ -52,7 +52,9 @@ If we could have running water here and ther instead of stagnant water, this wou
 
 Bridges
 -------
+* a cable, high enough (fixed in trees), would be enough to transship goods
 * a small boat + a solid rope or cable would be cheap simple first solution for many cases. There are trees everywhere to fix it.
+* <b>cable solution is probably not a solution for Liberty Island, because of risks with boats when the water is high</b>
 * https://www.baysports.com.au/products/air-pontoon-4x4x0-2m inflatable air pontoon
 * https://www.rivanna.org/2016/05/18/floating-bridge-installed/ floating bridge
 * https://www.archdaily.com/538895/dutch-floating-bridge-ro-and-ad-architecten Dutch floating bridge (plans available)
