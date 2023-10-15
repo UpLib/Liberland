@@ -14,6 +14,10 @@ All such initiatives would also be beneficial for Liberland.
 
 <!-- 
 I took the liberty to list initiatives which could help greasing the wheels.
+
+monter une assoc d'amitié LL/Croatia,
+financer un concours pour un monument à l'entente LL/Croatie
+ériger le monument
 -->
 
 Openly publish some Liberland's statistics
