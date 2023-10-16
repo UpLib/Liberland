@@ -2,6 +2,7 @@
 Our local partners or possible partners
 ---------------------------------------
 * [Zmajevac](Zmajevac.md)
+* [Batina](Batina.md)
 * [Croatian-Forests](Croatian-Forests.md)
 * [Danube](Danube.md)
 * [hunters](hunters.md)
