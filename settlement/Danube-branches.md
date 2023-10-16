@@ -1,6 +1,6 @@
 
-Danube Liberland branches
--------------------------
+Danube branches in Liberland 
+----------------------------
 There are at least 2 temporary Danube branches going inside Liberland (see the maps).  
 Part of the year, those branches are disconnected from the Danube (the Danube water level being too low), 
 and the other part, when the Danube is high enough, the branches are reconnected to the Danube.
