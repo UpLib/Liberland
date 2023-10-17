@@ -11,8 +11,10 @@ Our local partners or possible partners
 
 
 <!--
+https://www.youtube.com/watch?v=0XkCRZVPGYc Restaurant Sunjog Carda
+https://www.facebook.com/sunjog.carda/
+
 purchasing land from owners, with money but also by exchange with land on Liberland
-https://verdisgov.org/
 What is doable with our nearest neighbours ?
 -->
 
