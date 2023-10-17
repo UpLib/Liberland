@@ -77,6 +77,8 @@ Pages related to Liberland
 
 
 <!-- 
+https://signal.group/#CjQKIG_4B6T_OgNpT249vOSSyFuhfp6rVaXAvCkkxhK09iA3EhBN19AEauimC-wmvrx2e7d1
+
 annuary 
 Il y a de facto tout un écosystème volontairement créé autour du projet, avec achats de terrains dans la zone franche d'Apatin, etc.
 
