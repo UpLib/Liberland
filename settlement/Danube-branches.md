@@ -44,15 +44,22 @@ Liberland satellite view.
 The west branch is clearly visible.  
 <br>
 
+Other branches
+--------------
+There are other Danube branches in Liberland, but smaller, narrower and less deep.  
+Nevertheless, they could be or some utility depending on how Liberland will be laid out.  
+<br>
+
 Mosquitoes
 ----------
 Stagnant water is known to encourage mosquitoes.
-If we could have running water here and ther instead of stagnant water, this would help us against mosquitoes.  
+If we could have running water here and there instead of stagnant water, this would help us against mosquitoes.  
 <br>
 
 Bridges
 -------
-Warning : fixed bridge is probably not a solution for Liberty Island, because of risks with boats when the water is high.  
+Warning : the variation level of the Danube can be 8 meters in a year.
+For this reason, fixed solutions are probably not appropriate for Liberty Island (because of risks with boats also).
 Suggestions below are for the water branches inside the land.  
 
 * a cable, high enough (fixed in trees), would be enough to transship goods
