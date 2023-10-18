@@ -1,7 +1,6 @@
 
 Misc links to the blockchain stuff
 ----------------------------------
-
 * https://liberland.org/en/why-blockchain
 * https://liberland.org/blockchain
 * https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain
@@ -9,3 +8,10 @@ Misc links to the blockchain stuff
 * https://www.youtube.com/watch?v=OsRb5RggrJY 10' 2023 april, Michal Ptacnik
 * https://www.youtube.com/watch?v=owcq6ZlLsOU 18' 2023 august, Michal Ptacnik
 <br>
+
+News
+----
+* 2023.10.17 https://edge.app/blog/company-news/edge-adds-support-for-liberland-blockchain/
+
+<br>
+
