@@ -12,6 +12,7 @@ Our local partners or possible partners
 
 <!--
 https://www.youtube.com/watch?v=0XkCRZVPGYc Restaurant Sunjog Carda
+more videos : https://www.youtube.com/@ilija756
 https://www.facebook.com/sunjog.carda/
 
 purchasing land from owners, with money but also by exchange with land on Liberland
