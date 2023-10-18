@@ -8,6 +8,7 @@ Our local partners or possible partners
 * [hunters](hunters.md)
 * [Kopacki Rit natural park](Kopacki-Rit.md)
 * [Verdis](Verdis.md)
+* Mirkovac airport
 
 
 <!--
