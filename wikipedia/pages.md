@@ -6,7 +6,9 @@ The wikipedia pages on which Liberlanders could add material and informations (i
 * https://en.wikipedia.org/wiki/Zmajevac Zmajevac is the Croatian nearest village from Liberland, has common borders with LL
 * https://en.wikipedia.org/wiki/Batina 2nd nearest village in Croatia
 * https://en.wikipedia.org/wiki/Kopački_Rit Kopački Rit natural park, in Croatia. The north border of the park quite touches south of Liberland
-* https://en.wikipedia.org/wiki/Liberland
+
+https://en.wikipedia.org/wiki/Liberland 
+* neither Zmajevac or Batina mentionned
 <br>
 
 Tips
