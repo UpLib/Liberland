@@ -61,5 +61,9 @@ Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton a
 chapelle, église, refuge, monument 
 maybe we could decide that Liberland has a patron saint ... and erect a chapel to him.
 
+Noter que la maison forestière détruite était construite en petites briques.
+Noter aussi que la "Croatian Forests" n'a pas hésité à détruire cette grande maison, en pas si mauvais état,
+sans doute en partie à cause de LL.
+
 -->
 
