@@ -42,6 +42,7 @@ A potential problem is that the land may well be the property of the "Croatian F
 (Many trees seem to be planted in a very ordered manner).  
 <br>
 
+<!--
 A pier near Ark Village ?
 -------------------------
 eg directly on the Danube, on the other side of the road ?  
@@ -57,7 +58,7 @@ There is also a road (a breakwater ?) between the lake and the Danube.<br>
 Given that building permits are also complicated (and long) to obtain in Serbia, such a project is probably a bit irrealistic.  
 <br>
 
-<!--
+
 more scalable
 En 2023, le Liberland possède plusieurs bases arrières susceptibles de soutenir les efforts déployés à Gornja Siga :
 - Ark village à Apatin
