@@ -13,6 +13,7 @@ Wallet(s)
 * https://deep.edge.app/promotion/liberland Edge wallet
 * https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/how-to-create-wallet
 * https://support.polkadot.network/support/solutions/articles/65000177945-where-can-i-see-the-transaction-history-of-my-polkadot-account-
+* https://walletscrutiny.com
 <br>
 
 News
