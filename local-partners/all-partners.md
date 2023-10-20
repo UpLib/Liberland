@@ -8,7 +8,7 @@ Local partners or possible partners
 * [hunters](hunters.md)
 * [Kopacki Rit natural park](Kopacki-Rit.md)
 * [Verdis](Verdis.md)
-* Mirkovac airport
+* Mirkovac airport -> https://knezevi-vinogradi.hr/en/municipality/economy/the-business-and-enterprise-zone/
 * https://www.radiodunav.com Radio Dunav
 
 <!--
