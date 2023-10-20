@@ -13,6 +13,7 @@ Wallet(s)
 * https://blockchain.liberland.org/signin this is Liberland's own webwallet
 * https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F# this is the polkadot webwallet (for LLDs)
 * https://deep.edge.app/promotion/liberland Edge wallet
+* the 3 above webwallets are the only ones available in october 2023
 * https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/how-to-create-wallet
 * https://support.polkadot.network/support/solutions/articles/65000177945-where-can-i-see-the-transaction-history-of-my-polkadot-account-
 * https://walletscrutiny.com
