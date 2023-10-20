@@ -15,6 +15,9 @@ Wallet(s)
 * https://support.polkadot.network/support/solutions/articles/65000177945-where-can-i-see-the-transaction-history-of-my-polkadot-account-
 * https://walletscrutiny.com
 <br>
+<!--
+https://traderfrancophone.fr/crypto-monnaie/edge-wallet-avis/
+-->
 
 News
 ----
