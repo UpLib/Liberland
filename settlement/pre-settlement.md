@@ -11,6 +11,12 @@ As much it is absolutely understandable that many Liberlanders are impatients to
 as much it is important to insure a settlement will be done in good conditions,
 ie without being afraid of material destructions (or worse).  
 <br>
+<!--
+Au moins 1 settler, AV, m'a informé que le CF local exploite illégalement le bois etc
+Le policier qui a molesté Niko a été limogé. Il serait frangin d'un forestier (chef).
+En // des enjeux à l'échelle nationale, il y a bien des enjeux locaux forts.
+Et les locaux font des trucs sans forcément aviser au-dessus.
+-->
 
 Liberland : Requirements <b>before</b> settling
 -----------------------------------------------
@@ -35,13 +41,8 @@ Expecting being able to settle by force and/or without the agreement of our Croa
 So, let's use our skills, brains (and money !) to explore how this can be done.  
 Better use our time and energy to discuss with Croatia and Croatian entities concerned by Gornja Siga,
 than use this time in other unproductive tracks.  
-Let's be positive.
+Let's be positive.  
 <br>
-<!--
-Au moins 1 settler, AV, m'a informé que le CF local exploite illégalement le bois etc
-Des policiers sont en famille avec des forestiers.
-En // des enjeux à l'échelle nationale, il y a bien des enjeux locaux forts.
--->
 
 Pre-settling : Building things that no one wants to destroy
 ------------------------------------------------------------
