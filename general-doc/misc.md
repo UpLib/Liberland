@@ -1,5 +1,7 @@
 
 <!--
+You have the opportunity to meet and network with our Minister of Justice, Michal Ptáčník at the 'Network State Conference' in Amsterdam on Oct 30, 2023. 🇳🇱
+
 The latest news article (https://liberland.org/en/news/498-liberland-set-to-become-a-hub-for-network-states)
 at liberland.org mentions BitNation.
 
