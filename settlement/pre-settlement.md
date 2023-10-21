@@ -37,7 +37,11 @@ Better use our time and energy to discuss with Croatia and Croatian entities con
 than use this time in other unproductive tracks.  
 Let's be positive.
 <br>
-
+<!--
+Au moins 1 settler, AV, m'a informé que le CF local exploite illégalement le bois etc
+Des policiers sont en famille avec des forestiers.
+En // des enjeux à l'échelle nationale, il y a bien des enjeux locaux forts.
+-->
 
 Pre-settling : Building things that no one wants to destroy
 ------------------------------------------------------------
