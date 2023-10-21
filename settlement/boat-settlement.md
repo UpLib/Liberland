@@ -32,4 +32,7 @@ Only allowed if the ship has an issue. Which happens sometimes, unfortunately.
 
 <br>
 
-
+<!-- 
+les bâteaux de la police border sont assez vigilants pour empêcher d'accoster.
+Bref, il ne faut pas trop compter pouvoir faire des A/R en bâteau à notre guise
+-->
