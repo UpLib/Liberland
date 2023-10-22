@@ -19,8 +19,9 @@ Practical informations
 * https://www.arriva.com.hr/en-us/home buses schedules + book tickets
 * https://www.facebook.com/groups/liberlandcarpool if you search a car to go to Liberland
 * <i>Lonely Planet</i> Croatia guide mentions that there are direct buses and trains from Zurich to Zagreb
-Since beginning of August 2023, it is possible to access Liberland by foot and by boat.
-Coming people are a bit annoyed by the Croatian police, but not impeached to access.
+* The nearests gas stations are in Draz and Knezevi Vinogradi.
+* Since beginning of August 2023, it is possible to access Liberland by foot and by boat. Coming people are a bit annoyed by the Croatian police, but not impeached to access.
+
 <br>
 
 How to help the settlers
