@@ -19,6 +19,8 @@ https://www.facebook.com/sunjog.carda/
 On peut même proposer de le racheter, et de garder le cuistot, salarié ? Ou de louer en automne/hiver ?
 NB : le restaurant semble fréquenté par les forestiers de CF (assez logique), voir videos YT.
 
+LL pourrait racheter un commerce à Zmajevac ?
+y monter une station-essence "Last GS before LL" + location vélo etc.
 
 purchasing land from owners, with money but also by exchange with land on Liberland
 What is doable with our nearest neighbours ?
