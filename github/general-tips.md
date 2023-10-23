@@ -3,7 +3,14 @@ Tuyaux github
 -------------
 * Pour effacer une repository principale, c'est dans le menu Settings (roue dentée), tout en bas.
 * Pour créer un dossier, je n'ai pour l'instant pas trouvé mieux que de créer un fichier en stipulant /nom-de-dossier/fichier. C'est un peu bourin ... mais ça marche.
-* Penser à sauvegarder régulièrement at home
+* Penser à sauvegarder régulièrement at home -> <code>git clone</code>  
+<br>
+
+Basics
+------
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github#comment-36460
+* https://docs.github.com/fr/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location  
 <br>
 
 Pull Request
@@ -22,11 +29,9 @@ Même si les 2 PRs concernent des fichiers différents (et je ne vois pas commen
 ça doit être une feature.
 <br>
 
-Liens
------
-* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-* https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github#comment-36460
-* https://docs.github.com/fr/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location
+Misc
+----
+* une repo forkée n'a pas les attributs issues et discussions
 <br>
 
 Alternatives
