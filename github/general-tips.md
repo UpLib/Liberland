@@ -29,3 +29,10 @@ Liens
 * https://docs.github.com/fr/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location
 <br>
 
+Alternatives
+------------
+* https://gitlab.com/ maybe a bit less features
+
+<br>
+
+
