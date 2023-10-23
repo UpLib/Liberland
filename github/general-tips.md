@@ -31,7 +31,7 @@ Même si les 2 PRs concernent des fichiers différents (et je ne vois pas commen
 
 Misc
 ----
-* une repo forkée n'a pas les attributs issues et discussions
+* une repo forkée ne reprend pas les attributs issues et discussions de la repo originelle. C'est logique.
 <br>
 
 Alternatives
