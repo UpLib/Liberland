@@ -7,7 +7,7 @@ This repo is relative to parts of the Liberland github work.
 * [Constitution](https://github.com/liberland/Constitution)                  :  16 contributors in 2023
 * [laws](https://github.com/liberland/laws)                                  :   9 contributors in 2023
 * [docs](https://github.com/liberland/docs)                                  :   5 contributors in 2023
-* [liberland_frontend](* https://github.com/liberland/liberland_frontend)    :   5 contributors in 2023, actif, JS, a priori, c'est la webwallet
+* [liberland_frontend](https://github.com/liberland/liberland_frontend)      :   5 contributors in 2023, active, JS, it is the webwallet
 
 <br>
 
