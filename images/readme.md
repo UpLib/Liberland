@@ -1,10 +1,13 @@
-Some images about Liberland and surroundings
+
+
+![alt text](/images/thumbs/fb-naturalized-settler-600x500-thumb.jpg)
+fb-naturalized-settler-600x500.jpg : naturalized happy settler, source = Liberland newsletter
 
 ![alt text](/images/thumbs/ark-village-gm-02-thumb.jpg)
 ark-village-gm-02.jpg : Ark village satellite view, source = google map  
 
-![alt text](/images/thumbs/liberland-lara-500x600-thumb.jpg)
-liberland-lara-500x600.jpg : Liberland sky view, with Jefferson square + Liberty Island, [source](https://lara.ll.land)
+![alt text](/images/thumbs/liberland-lara-600x500-thumb.jpg)
+liberland-lara-600x500.jpg : Liberland sky view, with Jefferson square + Liberty Island, [source](https://lara.ll.land)
 
 ![alt text](/images/thumbs/liberland-satview-2007-thumb.jpg)
 liberland-satview-2007.jpg : Liberland satellite view, 2007
