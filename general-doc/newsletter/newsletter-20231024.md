@@ -2,7 +2,7 @@ Liberland Newsletter - 2023.10.24
 ---------------------------------
 
 ![freshly naturalized settler](/images/fb-naturalized-settler-600x500.jpg)
-Frederik, our freshly naturalized settler
+<br>Frederik, our freshly naturalized settler
 
 
 The first settlers are getting married in Liberland!
