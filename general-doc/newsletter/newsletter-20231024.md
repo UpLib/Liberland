@@ -1,4 +1,6 @@
 
+![freshly naturalized settler](/images/fb-naturalized-settler-600x500.jpg)
+
 Frederik, our freshly naturalized settler
 The first settlers are getting married in Liberland!
 
