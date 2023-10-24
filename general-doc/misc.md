@@ -2,7 +2,7 @@
 * issue : 725.000 applicants -> media/PR
 * issue : senators, who are they ?
 * issue : BitNation, dead since more than 5 years ... still mentioned in LLL comm
-
+* https://www.youtube.com/shorts/X6AXDIzIiXY
 
 <!--
 questions :
