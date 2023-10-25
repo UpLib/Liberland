@@ -7,7 +7,7 @@ Issues
 
 Links
 -----
-* https://www.youtube.com/shorts/X6AXDIzIiXY
+* https://www.youtube.com/shorts/X6AXDIzIiXY retour compliqué du LL
 * https://en.wikipedia.org/wiki/Over-the-counter_(finance)
 
 <br>
