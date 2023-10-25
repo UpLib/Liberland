@@ -1,10 +1,20 @@
 
+Issues
+------
 * issue : 725.000 applicants -> media/PR
 * issue : senators, who are they ?
 * issue : BitNation, dead since more than 5 years ... still mentioned in LLL comm
-* https://www.youtube.com/shorts/X6AXDIzIiXY
 
-<!--
+Links
+-----
+* https://www.youtube.com/shorts/X6AXDIzIiXY
+* https://en.wikipedia.org/wiki/Over-the-counter_(finance)
+
+<br>
+
+
+
+<!--  
 questions :
 who are currently (oct 2023) the Liberland senators ?
 Existence of Liberland senators is mentioned here and there ... but we have never seen a name.
