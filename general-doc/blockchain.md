@@ -5,9 +5,7 @@ Misc links to the blockchain stuff
 * https://liberland.org/blockchain
 * https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain
 * https://www.youtube.com/watch?v=OsRb5RggrJY 10' 2023 april, Michal Ptacnik
-* https://www.youtube.com/watch?v=owcq6ZlLsOU 18' 2023 august, Michal Ptacnik
-
-Liberland blockchain 
+* https://www.youtube.com/watch?v=owcq6ZlLsOU 18' 2023 august, Michal Ptacnik  
 <br>
 
 Markets
@@ -15,11 +13,10 @@ Markets
 In october 2023, there is no DEX and no CEX for exchanging your LLDs or LLMs.  
 
 You may however try to find a buyer or a seller on those forums/groups/rooms
-* the official Liberland Finance signal group
-* https://matrix.to/#/#Liberland-LLD-LLM-OTC-Market:matrix.org
+* https://liberland.chat/finance the official Liberland Finance signal group
+* https://matrix.to/#/#Liberland-LLD-LLM-OTC-Market:matrix.org Matrix room dedicated to OTC LLD and LLM exchange
 
-
-
+<br>
 
 Wallet(s)
 ---------
