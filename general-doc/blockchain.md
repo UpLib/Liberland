@@ -8,6 +8,7 @@ Misc links to the Liberland blockchain stuff
 * https://www.youtube.com/watch?v=owcq6ZlLsOU 18' 2023 august, Michal Ptacnik  
 <br>
 
+<!--
 LLD LLM Markets
 ---------------
 In october 2023, there is no DEX and no CEX for exchanging your LLDs or LLMs.  
@@ -18,6 +19,8 @@ You may however try to find a buyer or a seller on those forums/groups/rooms :
 
 Please respect the rules which apply in those groups.  
 <br>
+-->
+
 
 Wallet(s)
 ---------
