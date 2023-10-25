@@ -10,6 +10,17 @@ Misc links to the blockchain stuff
 Liberland blockchain 
 <br>
 
+Markets
+-------
+In october 2023, there is no DEX and no CEX for exchanging your LLDs or LLMs.  
+
+You may however try to find a buyer or a seller on those forums/groups/rooms
+* the official Liberland Finance signal group
+* https://matrix.to/#/#Liberland-LLD-LLM-OTC-Market:matrix.org
+
+
+
+
 Wallet(s)
 ---------
 * https://blockchain.liberland.org/signin this is Liberland's own webwallet
