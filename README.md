@@ -1,4 +1,4 @@
-<b>Workspace and miscelleanous notes about Liberland and the Liberland project.</b>
+<b>Practical informations + miscelleanous notes about Liberland and the Liberland project.</b>
 
 <b>Warning : all documents here are drafts and must be treated as such </b>  
 <b>Contributions are welcome</b>  
