@@ -14,11 +14,16 @@ The wikipedia pages on which Liberlanders could add material and informations :
 https://en.wikipedia.org/wiki/Liberland
 ---------------------------------------
 * neither Zmajevac or Batina mentionned
-* brochure.pdf has usable text
+<br>
+
+https://fr.wikipedia.org/wiki/Liberland
+---------------------------------------
+* démographie, todo
 <br>
 
 Tips
 ----
+* brochure.pdf has usable text
 * for a given page, search for the language which has the most informations, and translate, eg with https://deepl.com
 * do raw copy/paste for references
 
