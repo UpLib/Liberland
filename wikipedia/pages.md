@@ -21,7 +21,7 @@ Tips
 
 or use WP tools :
 * https://en.wikipedia.org/wiki/Special:ContentTranslation
-* https://fr.wikipedia.org/wiki/Sp%C3%A9cial:ContentTranslation
+* https://fr.wikipedia.org/wiki/Spécial:ContentTranslation
 
 <!--
 -->
