@@ -28,7 +28,7 @@ Building with earth bags
 * http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
 * https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
 
-Be careful. Round shapes need to respect precise curves for the walls.
+Be careful. Round shapes need to respect precise curves for the walls.  
 <br>
 
 Building with trunks
