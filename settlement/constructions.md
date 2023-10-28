@@ -17,6 +17,7 @@ Big trees can be cut off of course, but they provide however some protection.
 Building with earth bags
 ------------------------
 * https://home.howstuffworks.com/earthbag-home.htm building with earthbags
+* https://www.earthbagbuilding.com/
 * https://permadomia.com/bioconstruction?lang=en#earth-bags
 * https://duckduckgo.com/?q=earthbag+homes&t=ftsa&iar=images
 * https://www.pinterest.fr/pin/570549846554852377/
