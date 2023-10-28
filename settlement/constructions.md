@@ -5,20 +5,13 @@ Parts of the structure, eg big hollow concrete blocks, could be build on a rear 
 Then, filled with sand and/or concrete made on site.  
 Of course, we should do our best to realize something nice.
 
-There seems also to be a lot of sand on Liberty Island and on the beaches.
+There seems to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?  
 <br>
 
 Building constructions surrounded by big trees
 ----------------------------------------------
 Big trees can be cut off of course, but they provide however some protection.  
-<br>
-
-Building with trunks
---------------------
-It's not indestructible, but a log cabin is more solid than a simple plank cabin, and also nicer.  
-There is all the wood we want there ... but I (strongly) suggest that we purchase the wood from the "Croatian Forest".
-At least, we should try.  
 <br>
 
 Building with earth bags
@@ -29,6 +22,18 @@ Building with earth bags
 * https://www.pinterest.fr/pin/570549846554852377/
 * http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
 * https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
+<br>
+
+Building with trunks
+--------------------
+It's not indestructible, but a log cabin is more solid than a simple plank cabin, and also nicer.  
+There is all the wood we want there ... but I (strongly) suggest that we purchase the wood from the "Croatian Forest".
+At least, we should try.  
+<br>
+
+Floor
+-----
+* https://www.bricodepot.fr/sisteron/dalle-composite-clipsable-neilio-40-x-40-cm-ep-45-cm/prod86745/#
 <br>
 
 Compressed earth bricks
