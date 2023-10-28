@@ -33,7 +33,7 @@ At least, we should try.
 
 Floor
 -----
-* [Robust plastic tile](https://www.bricodepot.fr/sisteron/dalle-composite-clipsable-neilio-40-x-40-cm-ep-45-cm/prod86745/#) this product is made in Italy for Kingfisher  
+* [Robust plastic tile](https://www.bricodepot.fr/sisteron/dalle-composite-clipsable-neilio-40-x-40-cm-ep-45-cm/prod86745/#) this product is made in Italy for Kingfisher. There is a video at the bottom of the page which explains how it is used.
 <br>
 
 Compressed earth bricks
