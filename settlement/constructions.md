@@ -19,11 +19,16 @@ Building with earth bags
 * https://home.howstuffworks.com/earthbag-home.htm building with earthbags
 * https://www.earthbagbuilding.com/
 * https://duckduckgo.com/?t=ftsa&q=super-adobe&iax=images&ia=images
+* https://en.wikipedia.org/wiki/Superadobe
+* https://en.wikipedia.org/wiki/Earthbag_construction
+* https://fr.twiza.org/portail/la-maison-en-super-adobe/ in french, but interesting pictures
 * https://permadomia.com/bioconstruction?lang=en#earth-bags
 * https://duckduckgo.com/?q=earthbag+homes&t=ftsa&iar=images
 * https://www.pinterest.fr/pin/570549846554852377/
 * http://www.arch2o.com/7-innovative-low-income-housing-materials-that-might-save-the-world/
 * https://royalcivil4all.blogspot.com/2017/11/underwater-construction.html see the page bottom
+
+Be careful. Round shapes need to respect precise curves for the walls.
 <br>
 
 Building with trunks
