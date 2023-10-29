@@ -1,5 +1,8 @@
 
 
+![alt text](/images/thumbs/ll-olive-tree-thumb.jpg)
+ll-olive-tree.jpg : Olive tree planted on October 2023, 28th, source = personal picture
+
 ![alt text](/images/thumbs/fb-naturalized-settler-600x500-thumb.jpg)
 fb-naturalized-settler-600x500.jpg : naturalized happy settler, source = Liberland newsletter
 
