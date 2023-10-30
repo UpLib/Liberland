@@ -3,8 +3,9 @@
 
 senate.md
 ---------
-* add wp link meritocraty, constitution (interne)
+* https://github.com/liberland/docs/pull/38 add wp link meritocraty, constitution (interne)
 
+<br>
 
 Done
 ----
