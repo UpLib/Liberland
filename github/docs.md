@@ -9,6 +9,6 @@ senate.md
 Done
 ----
 * https://github.com/liberland/docs/pull/35
-* 22.10.2023 discussions + PR
+* 22.10.2023 https://github.com/liberland/docs/discussions + PR
 
 <br>
