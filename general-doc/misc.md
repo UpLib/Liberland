@@ -8,7 +8,7 @@ Issues
 Links
 -----
 * https://www.youtube.com/shorts/X6AXDIzIiXY retour compliqué du LL
-* https://en.wikipedia.org/wiki/Over-the-counter_(finance)
+* https://www.youtube.com/watch?v=klCBGh1njjM First serious seastead started by Liberlanders ([Aisland.io](https://aisland.io/))
 
 <br>
 
