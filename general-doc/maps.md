@@ -35,6 +35,7 @@ Danube maps
 -----------
 * [River map of Danube next to Liberland, pdf](https://danubeportal.com/application/cache/uploads/charts/paper/HR/136/1571899967.pdf)
 * https://www.icpdr.org/library/maps-data concerns the Danube river
+* http://earth.geo.u-szeged.hu/dfgis/ Danube Floodplain GIS
 <br>
 
 Old maps
