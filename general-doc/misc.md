@@ -1,6 +1,7 @@
 
 https://en.wikipedia.org/wiki/Special:Contributions/Vincent_Andres
 
+https://liberlandpress.com/2022/10/13/good-news-from-colombia/
 
 Issues
 ------
