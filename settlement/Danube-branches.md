@@ -29,6 +29,9 @@ For example, if we plan to realize a bridge, the sand can be used to raise the 2
 ![alt text](/images/liberland-lara-600x500.jpg)  
 Liberland sky view, with Jefferson square + Liberty Island.  
 The Danube branch, disconnected at the time of the picture, is clearly visible.  
+
+Not sure exactly where this video was taken (but it's in Liberland), we can see that even in a quite dead arm there is a tiny running water :
+https://twitter.com/TV_Liberland/status/1702590724212994380  
 <br>
 
 Danube branch west of Liberland
