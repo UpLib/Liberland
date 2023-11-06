@@ -26,7 +26,7 @@ So, either we store the sand somewhere, either we can use it to raise the soil l
 For example, if we plan to realize a bridge, the sand can be used to raise the 2 ends of the bridge.  
 <br>
 
-![alt text](/images/liberland-lara-500x600.jpg)  
+![alt text](/images/liberland-lara-600x500.jpg)  
 Liberland sky view, with Jefferson square + Liberty Island.  
 The Danube branch, disconnected at the time of the picture, is clearly visible.  
 <br>
