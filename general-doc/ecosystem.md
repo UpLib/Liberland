@@ -41,6 +41,7 @@ Friend Websites
 * http://lara.ll.land/ Liberland Amateur Radio Association (not the same as above)
 * https://liberdir.com/
 * https://aisland.io DAO, based on a barge in international waters
+* https://www.liberlandcalendar.com
 <br>
 
 Video chains
