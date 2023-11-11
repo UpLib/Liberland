@@ -8,7 +8,7 @@ Of course, we should do our best to realize something nice.
 There seems to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?  
 
-* https://liberland.one/earthbag pour la construction avec des earthbags
+* see https://liberland.one/earthbag for building with earthbags
 
 <br>
 
