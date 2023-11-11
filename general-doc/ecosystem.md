@@ -10,6 +10,7 @@ Liberland's ecosystem
 * https://ark.ll.land/ Ark village (the nearest Liberland current rear base)
 * https://floatingman.ll.land/ important annual event occuring at Ark village
 * https://www.liberlandaidfoundation.org/ Liberland aid foundation
+* https://school.ll.land/ Liberland Primary School
 * https://liberverse.net Liberland Metaverse
 * https://libersoft.org Liberland based non-profit organization, dedicated to developing an innovative open source software
 <br>
