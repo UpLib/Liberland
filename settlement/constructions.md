@@ -9,6 +9,7 @@ There seems to be a lot of sand on Liberty Island and on the beaches.
 Maybe this sand is usable to make concrete ?  
 
 * see https://liberland.one/earthbag for building with earthbags
+* see https://liberland.one/log-cabins for building with logs
 
 <br>
 
@@ -16,14 +17,6 @@ Building constructions surrounded by big trees
 ----------------------------------------------
 Big trees can be cut off of course, but they provide however some protection.  
 <br>
-
-Building with trunks
---------------------
-It's not indestructible, but a log cabin is more solid than a simple plank cabin, and also nicer.  
-There is all the wood we want there ... but I (strongly) suggest that we purchase the wood from the "Croatian Forest".
-At least, we should try.  
-<br>
-
 
 Compressed earth bricks
 ------------------------
