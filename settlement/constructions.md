@@ -31,16 +31,6 @@ Concrete blocks
 * https://psalmstones.com/lego-concrete-blocks/
 <br>
 
-Mobile sawmill
---------------
-A lot of wood will be used for the settlement.
-Maybe that complementarily to buying wood, Liberlanders could use the existing local wood ?
-
-* https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
-* https://woodmizer.com/store/Shop/Portable-Sawmills/LT15-Portable-Sawmill ~10.000$
-* https://www.youtube.com/watch?v=-6vfq0etuFA wood-mizer
-<br>
-
 
 <!-- 
 Construction unbreakable, eg monument en blocs de pierre ou en blocs de béton assemblés.
@@ -51,6 +41,5 @@ maybe we could decide that Liberland has a patron saint ... and erect a chapel t
 Noter que la maison forestière détruite était construite en petites briques.
 Noter aussi que la "Croatian Forests" n'a pas hésité à détruire cette grande maison, en pas si mauvais état,
 sans doute en partie à cause de LL.
-
 -->
 
